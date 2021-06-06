@@ -1,5 +1,5 @@
 ---
-title: Hantera reklamtrötthet med tryckregler
+title: Hantera trötthet med fördefinierade filter
 description: Lär dig hur du implementerar trötthetshantering i Adobe Campaign med hjälp av filter.
 feature: Trötthetshantering
 kt: 7958
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Business Practitioner, Developer, Administrator
 level: Experienced
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '64'
 ht-degree: 10%
 
 ---
 
 
-# Ställa in trötthetshantering med fördefinierade filter
+# Hantera trötthet med fördefinierade filter
 
 Trötthetshanteringen styr frekvens och antal meddelanden för att undvika att mottagare blir överdrivna.
 Lär dig hur du implementerar trötthetshantering i Adobe Campaign med hjälp av filter.
