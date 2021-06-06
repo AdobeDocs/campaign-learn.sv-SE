@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Tutorials
 user-guide-description: Adobe Campaign gör det möjligt för marknadsförare att designa flerkanalsupplevelser och erbjuder en miljö för visuell kampanjsamordning, interaktionshantering i realtid och flerkanalsmarknadsföring.
 breadcrumb-title: Självstudiekurser
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
+source-git-commit: ee567c5fbe90ddce24617b3d5a8210c04728b4db
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 38%
+source-wordcount: '301'
+ht-degree: 36%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 38%
 + [Översikt](/help/overview.md)
 + Komma igång {#getting-started}
    + [Introduktion till Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Installera och konfigurera klienten i Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Installera och konfigurera Adobe Campaign-klienten](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Utforska användargränssnittet i Adobe Campaign ](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/getting-started/manage-marketing-campaigns.md)
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -57,7 +57,7 @@ ht-degree: 38%
    + Använd leveransmallar{#using-delivery-templates}
       + [Konfigurera en leveransmall](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Ange egenskaper för leveransmall](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
-      + [Distribuera en mall för e-postleverans ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
+      + [Distribuera en mall för ad hoc-e-postleverans](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Trötthetshantering{#fatigue-management}
       + [Regler för typologi](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Fördefinierade filter](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
