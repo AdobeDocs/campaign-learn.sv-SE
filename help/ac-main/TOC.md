@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Tutorials
 user-guide-description: Adobe Campaign gör det möjligt för marknadsförare att designa flerkanalsupplevelser och erbjuder en miljö för visuell kampanjsamordning, interaktionshantering i realtid och flerkanalsmarknadsföring.
 breadcrumb-title: Självstudiekurser
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 37%
+source-wordcount: '300'
+ht-degree: 38%
 
 ---
 
@@ -59,8 +59,8 @@ ht-degree: 37%
       + [Ange egenskaper för leveransmall](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Distribuera en mall för e-postleverans ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Trötthetshantering{#fatigue-management}
-      + [Använd typologiregler](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-      + [Använd fördefinierade filter](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
+      + [Regler för typologi](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+      + [Fördefinierade filter](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Konfigurera och hantera prenumerationstjänster](/help/send-messages/configure-and-manage-subscription-services.md)
 + Processhantering och automatisering{#process-management}
    + [Skapa ett arbetsflöde](/help/process-management/create-a-workflow.md)
