@@ -1,26 +1,77 @@
 ---
-title: Adobe Campaign V8 Tutorials - översikt
-description: Adobe Campaign är en plattform för att utforma kundupplevelser i olika kanaler och erbjuder en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
-sub-product: Kampanj V8
+title: Självstudiekurser om Adobe Campaign V8 – översikt
+description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
+sub-product: Campaign V8
 feature: Översikt
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
+source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 14%
+source-wordcount: '271'
+ht-degree: 73%
 
 ---
 
-# Adobe Campaign V8 Tutorials - översikt
+# Självstudiekurser om Adobe Campaign V8 – översikt
 
-Adobe Campaign är en plattform för att utforma kundupplevelser i olika kanaler och erbjuder en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna i Adobe Campaign V8.
+Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign V8.
 
 >[!NOTE]
-> Campaign v8 är för närvarande bara tillgängligt som en hanterad Cloud Service och kan inte distribueras på en lokal eller hybridmiljö. Migrering från en befintlig Campaign Classic v7-miljö är inte tillgänglig än.
->Mer information om skillnaderna mellan de två versionerna finns i [produktdokumentationen för Classic v7 till V8](https://experienceleague.adobe.com/docs/campaign/campaign-classic/start/capability-matrix.html?lang=en#start). Se även [självstudiekurserna för Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv) för att få information om hur du gör videofilmer.
+> Campaign v8 är för närvarande bara tillgängligt som en hanterad Cloud Service och kan inte distribueras i en lokal eller hybridmiljö. Migrering från en befintlig Campaign Classic v7-miljö är inte tillgänglig än.
+>Mer information om skillnaderna mellan de två versionerna finns i [Produktdokumentationen för Classic v7 till V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html). Se även avsnittet [Självstudiekurser om Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv) för videor med instruktioner.
 
 ## Nyheter
 
-[Viktiga funktioner](https://experienceleague.adobe.com/docs/campaign/campaign-classic/start/whats-new.html?lang=en#start)
+[Viktiga möjligheter](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+
+## Personalens val
+
+<table>
+<tr>
+  <td>
+    <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+      <img alt="Skapa en marknadsföringsplan, ett program och kampanjer (video)" src="./assets/333810.jpg"/>
+    </a>
+    <div>
+      <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+    <strong>Skapa en marknadsföringsplan</strong>
+    </a>
+    </div>
+    <p>
+    <em>Lär dig hur du skapar en marknadsföringsplan, ett program och en kampanj.</em>
+    <p>
+  </td>
+   <td>
+    <a href="./content-creation/create-and-design-email-deliveries.md">
+      <img alt="Skapa och utforma e-postleveranser (video)" src="./assets/333476.jpg" />
+    </a>
+    <div>
+      <a href="../content-creation/create-and-design-email-deliveries.md">
+    <strong>Skapa och utforma e-postleveranser</strong>
+    </a>
+    </div> 
+    <p>
+    <em>Förstå processen med att skapa e-postleveranser och läs om hur du designar och anpassar e-postinnehåll.
+</em>
+    <p>
+  </td>
+  <td>
+    <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
+      <img alt="Hantera trötthet med typologiregler (video)" src="./assets/333787.jpg" />
+    </a>
+    <div>
+      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.m">
+    <strong>Hantera trötthet med typologiregler</strong>
+    </a>
+    </div>
+    <p>
+    <em>Lär dig hur du implementerar trötthetshantering i Adobe Campaign med typologiregler.  </em>
+    <p>
+  </td>
+</tr>
+</table>
+
+## Ytterligare resurser
+
+* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html)
