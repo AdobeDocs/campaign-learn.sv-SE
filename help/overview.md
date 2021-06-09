@@ -6,7 +6,7 @@ feature: Översikt
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+source-git-commit: bdf29c4f660743d0f5d76a3df5425eeff86acd8e
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 73%
@@ -47,7 +47,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
       <img alt="Skapa och utforma e-postleveranser (video)" src="./assets/333476.jpg" />
     </a>
     <div>
-      <a href="../content-creation/create-and-design-email-deliveries.md">
+      <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>Skapa och utforma e-postleveranser</strong>
     </a>
     </div> 
@@ -61,7 +61,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
       <img alt="Hantera trötthet med typologiregler (video)" src="./assets/333787.jpg" />
     </a>
     <div>
-      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.m">
+      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
     <strong>Hantera trötthet med typologiregler</strong>
     </a>
     </div>
