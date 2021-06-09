@@ -1,5 +1,5 @@
 ---
-title: Designa interaktivt e-postinnehåll med AMP
+title: Definiera interaktivt e-postinnehåll med AMP
 description: Läs om hur du konfigurerar e-postinnehållet i AMP-format.
 feature: E-post, e-postdesign
 kt: 7946
@@ -9,17 +9,19 @@ activity: set-up
 team: TM
 role: Business Practitioner, Developer
 level: Experienced
-source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
+hide: true
+hidefromtoc: true
+source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 57%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Definiera interaktivt e-postinnehåll med AMP
 
-AMP for Email är ett nytt format med öppen källkod som gör att utvecklare kan skapa dynamiska och interaktiva e-postmeddelanden. Med de moderna appliknande funktioner som finns direkt tillgängliga i e-postmeddelanden kan mottagarna interagera dynamiskt med innehållet i själva meddelandet.
+AMP för e-post är ett nytt format med öppen källkod som utvecklare använder för att skapa dynamiska och interaktiva e-postmeddelanden. Med de moderna app-funktioner som finns direkt tillgängliga i e-postmeddelanden kan mottagarna interagera dynamiskt med innehållet i själva meddelandet.
 
 För närvarande stöder endast Gmail, Outlook och Mail.ru AMP-formatet.
 
