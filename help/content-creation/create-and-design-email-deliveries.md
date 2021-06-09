@@ -1,5 +1,5 @@
 ---
-title: Designa och skapa e-postleveranser
+title: Skapa och utforma e-postleveranser
 description: Förstå processen att skapa en e-postleverans och läs om hur du utformar och personaliserar e-postinnehåll.
 feature: E-post, e-postdesign, personalisering
 kt: 7847
@@ -9,15 +9,15 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
-source-git-commit: 30e16faef1a85a0854b7e4d8fe0177833c631565
+source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 79%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Designa och skapa e-postleveranser
+# Skapa och utforma e-postleveranser
 
 Förstå processen att skapa en e-postleverans och läs om hur du utformar och personaliserar e-postinnehåll.
 
