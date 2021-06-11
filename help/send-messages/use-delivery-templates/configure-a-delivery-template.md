@@ -10,23 +10,23 @@ team: TM
 role: Administrator
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
 # Konfigurera en leveransmall
 
-Marknadsföringsavdelningarna tar fram leveransmallar för att standardisera den kreativa utseendet och känslan, så att de kan genomföra och lansera kampanjer snabbare.
+Marknadsföringsavdelningarna tar fram leveransmallar för att standardisera det kreativa utseendet och känslan, så att de kan genomföra och lansera kampanjer snabbare.
 
 En mall kan systematiskt innehålla:
 
 * Typologier
-* Avsändares- och svarsadresser
+* Avsändare och svarsadresser
 * Grundläggande personaliseringsblock
-* Länkar för att spegla sidor och ta bort prenumeration
+* Länkar till spegelsidor och för att ta bort prenumeration
 * Innehåll, en företagslogotyp eller en signatur
 * Andra leveransegenskaper, som resursgiltighet, batchkvantiteter, ...
 
