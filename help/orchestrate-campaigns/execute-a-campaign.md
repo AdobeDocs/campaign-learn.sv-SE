@@ -27,4 +27,4 @@ Lär dig hur du genomför en kampanj, granskar en e-postleverans och leveransege
 
 ## Ytterligare resurser
 
-*[Konfigurera marknadsföringskampanjer (produktdokumentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html)
+*[Konfigurera marknadsföringskampanjer (produktdokumentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=sv)
