@@ -1,6 +1,6 @@
 ---
 title: Introduktion till Adobe Campaign V8
-description: Förstå hur Adobe Campaign passar in i Adobe Digital Experience-portfolio och lär dig mer om de viktigaste funktionerna.
+description: Förstå hur Adobe Campaign passar in i Adobe Digital Experience-portfolion och lär dig mer om de viktigaste funktionerna.
 feature: Översikt
 kt: 7822
 thumbnail: 35129.jpg
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 # Introduktion till Adobe Campaign V8
 
-Förstå hur Adobe Campaign passar in i Adobe Digital Experience-portfolio och lär dig mer om de viktigaste funktionerna.
+Förstå hur Adobe Campaign passar in i Adobe Digital Experience-portfolion och lär dig mer om de viktigaste funktionerna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12)
