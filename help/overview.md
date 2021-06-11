@@ -18,7 +18,7 @@ ht-degree: 71%
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign V8.
 
 >[!NOTE]
-> Campaign v8 är för närvarande bara tillgängligt som en hanterad Cloud Service och kan inte distribueras i en lokal eller hybridmiljö. Migrering från en befintlig Campaign Classic v7-miljö är inte tillgänglig än.
+> Campaign v8 är för närvarande bara tillgängligt som en hanterad Cloud Service och kan inte distribueras i en lokal miljö eller hybridmiljö. Migrering från en befintlig Campaign Classic v7-miljö är inte tillgänglig än.
 >Mer information om skillnaderna mellan de två versionerna finns i [Produktdokumentationen för Classic v7 till V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html). Se även avsnittet [Självstudiekurser om Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv) för videor med instruktioner.
 
 ## Nyheter
