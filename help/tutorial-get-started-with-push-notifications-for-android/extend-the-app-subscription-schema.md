@@ -1,7 +1,7 @@
 ---
-title: Utöka programmets prenumerationsschema för att anpassa push-meddelanden
+title: Utöka appens prenumerationsschema för att personalisera push-meddelanden
 description: Lär dig hur du utökar appens prenumerationsschema för att kunna lagra personaliseringsvärden som Campaign tar emot från en mobilapp.
-feature: Push, Schema Extension
+feature: Push, Schematillägg
 kt: 7967
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -10,19 +10,19 @@ team: TM
 role: Administrator, Developer
 level: Experienced
 source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Utöka schemat för [!UICONTROL appprenumeration] för att anpassa push-meddelanden
+#  Utöka [!UICONTROL appens prenumerationschema] för att personalisera push-aviseringar
 
-Lär dig hur du utökar schemat för [!UICONTROL appprenumeration] för att kunna lagra personaliseringsvärden [!DNL Campaign] som tas emot från en mobilapp.
+Lär dig hur du utökar [!UICONTROL appens prenumerationsschema] för att kunna lagra personaliseringsvärden [!DNL Campaign] som tas emot från en mobilapp.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
 **Nästa steg**
 
-Steg 2: [Konfigurera en Android™-tjänst och skapa ett Android™-mobilprogram i Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
+Steg 2: [Konfigurera en Android™-tjänst och skapa en mobil Android™-app i Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
