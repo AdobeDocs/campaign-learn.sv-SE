@@ -1,6 +1,6 @@
 ---
 title: Skapa flerkanalskampanjer
-description: Lär dig hur du skapar en flerkanalskampanj med e-post, SMS och direktreklam.
+description: Lär dig hur du skapar en flerkanalskampanj med leveranser via e-post, SMS och direktutskick.
 feature: Arbetsflöden
 kt: 7794
 thumbnail: 24981.jpg
@@ -11,19 +11,19 @@ role: Business Practitioner
 level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
 source-git-commit: 88c2e8d387203cbd725efcef18052ae431b6d2b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
 # Skapa flerkanalskampanjer
 
-I en flerkanalskampanj använder en enda marknadsföringskommunikation flera kanaler för att nå en större målgrupp baserat på mottagarens önskade kanal.
+I en flerkanalskampanj används flera kanaler i en enda marknadsföringskommunikation, för att nå en större målgrupp utifrån mottagarens önskade kanal.
 
-Flerkanalsleveranser är utformade och körs i ett enda arbetsflöde.
+Flerkanalsleveranser utformas och körs i ett enskilt arbetsflöde.
 
-Lär dig hur du skapar en flerkanalskampanj med e-post, SMS och direktreklam.
+Lär dig hur du skapar en flerkanalskampanj med leveranser via e-post, SMS och direktutskick.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
