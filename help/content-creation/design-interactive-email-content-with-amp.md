@@ -13,8 +13,8 @@ hide: true
 hidefromtoc: true
 source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 100%
 
 ---
 
@@ -32,4 +32,4 @@ I videon nedan förklaras hur du aktiverar och använder AMP i Adobe Campaign Cl
 ## Ytterligare resurser
 
 * [AMP-redigerare](https://playground.amp.dev/)
-* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=en#about-amp-for-email)
+* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=sv#about-amp-for-email)
