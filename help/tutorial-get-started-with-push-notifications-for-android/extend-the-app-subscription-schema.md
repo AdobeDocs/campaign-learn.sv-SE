@@ -10,14 +10,14 @@ team: TM
 role: Administrator, Developer
 level: Experienced
 source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 
-# Utöka [!UICONTROL appens prenumerationschema] för att personalisera push-aviseringar
+#  Utöka [!UICONTROL appens prenumerationschema] för att personalisera push-aviseringar
 
 Lär dig hur du utökar [!UICONTROL appens prenumerationsschema] för att kunna lagra personaliseringsvärden [!DNL Campaign] som tas emot från en mobilapp.
 
