@@ -20,7 +20,7 @@ ht-degree: 100%
 
 I en tvärkanalskampanj används flera kanaler i en enda marknadsföringskommunikation, för att nå en större målgrupp utifrån den önskade mottagarkanalen.
 
-Läs om hur du skapar en flerkanalskampanj med hjälp av e-post, SMS och direktutskick.
+Läs om hur du skapar en tvärkanalskampanj med hjälp av e-post, SMS och direktutskick.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
