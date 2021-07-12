@@ -1,22 +1,22 @@
 ---
-title: 'Konfigurera push-kanalen med Experience Platform Mobile SDK '
-description: 'Lär dig hur du konfigurerar push-kanalen med Experience Cloud Mobile SDK. '
+title: Konfigurera push-kanalen med Experience Platform Mobile SDK
+description: Lär dig hur du konfigurerar push-kanalen med Experience Cloud Mobile SDK.
 feature: Push
 kt: 7960
 doc-type: feature video
 activity: setup
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 
 ---
-
 
 # Konfigurera push-kanalen med Experience Platform Mobile SDK
 
