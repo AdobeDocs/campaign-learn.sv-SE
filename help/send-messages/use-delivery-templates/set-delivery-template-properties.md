@@ -1,5 +1,5 @@
 ---
-title: 'Konfigurera egenskaper för leveransmallar '
+title: Konfigurera egenskaper för leveransmallar
 description: Lär dig hur du konfigurerar egenskaper för leveransmallar.
 feature: Leveransmallar
 kt: 7964
@@ -7,17 +7,17 @@ thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: 25ec67b4-62a5-4bcc-8bd0-8655e463366a
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 100%
 
 ---
 
-
-# Ange egenskaper för leveransmall {#set-the-delivery-template-properties}
+# Konfigurera egenskaper för leveransmallar {#set-the-delivery-template-properties}
 
 Lär dig hur du anger egenskaper för leveransmallar och förklarar varje egenskap i detalj.
 
