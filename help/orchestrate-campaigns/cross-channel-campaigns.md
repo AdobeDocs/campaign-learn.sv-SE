@@ -1,28 +1,26 @@
 ---
 title: Skapa flerkanalskampanjer
-description: Läs om hur du skapar en kanal-kanalkampanj.
+description: Lär dig hur du skapar en flerkanalskampanj med e-post och direktreklam baserat på kundens interaktion med den första leveransen.
 feature: Arbetsflöden
-kt: 7018
-thumbnail: 330990.jpg
+kt: 7798
+thumbnail: 335607.jpg
 doc-type: feature video
 activity: use
 team: TM
-hide: true
-hidefromtoc: true
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 16%
 
 ---
 
 # Skapa flerkanalskampanjer
 
-I en tvärkanalskampanj används flera kanaler i en enda marknadsföringskommunikation, för att nå en större målgrupp utifrån den önskade mottagarkanalen.
+I en flerkanalskampanj används olika kanaler för en enda marknadsföringskommunikation. Data skickas mellan kanalerna. Kunden får kommunikation via flera kanaler, t.ex. baserat på deras interaktion med den tidigare kommunikationen.
 
-Läs om hur du skapar en tvärkanalskampanj med hjälp av e-post, SMS och direktutskick.
+Lär dig hur du skapar en flerkanalskampanj med e-post och direktreklam baserat på kundens interaktion med den första leveransen.
 
->[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12)
 
 ## Ytterligare resurser
 
