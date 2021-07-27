@@ -5,10 +5,10 @@ user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ab58641e8805dd14b045ca497896f94e3b81647
+source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 96%
+source-wordcount: '296'
+ht-degree: 92%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 96%
 # Självstudiekurser om Adobe Campaign V8 {#tutorials}
 
 + [Översikt](/help/overview.md)
-+ Komma igång {#getting-started}
-   + [Introduktion till Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Installera och konfigurera Adobe Campaign-klienten](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [Utforska användargränssnittet i Adobe Campaign ](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-   + [Hantera marknadsföringskampanjer](/help/getting-started/manage-marketing-campaigns.md)
-   + [Skapa en marknadsföringsplan, program och kampanjer](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
-   + [Skapa händelseaktiverade kampanjer](/help/getting-started/create-event-triggered-campaigns.md)
++ Kom igång {#getting-started}
+   + [Introduktion till Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
+   + [Installera och konfigurera Adobe Campaign-klienten](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Utforska användargränssnittet i Adobe Campaign ](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [Hantera marknadsföringskampanjer](/help/get-started/manage-marketing-campaigns.md)
+   + [Skapa en marknadsföringsplan, program och kampanjer](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
+   + [Skapa händelseaktiverade kampanjer](/help/get-started/create-event-triggered-campaigns.md)
 + Profilhantering {#profile-management}
    + [Skapa och hantera profiler](/help/profile-management/create-and-manage-profiles.md)
    + [Målprofiler i ett arbetsflöde](/help/profile-management/target-profiles-in-a-workflow.md)
@@ -65,12 +65,12 @@ ht-degree: 96%
 + Processhantering och automatisering{#process-management}
    + [Skapa ett arbetsflöde](/help/process-management/create-a-workflow.md)
    + [Skapa återkommande och kontinuerliga leveranser](/help/process-management/recurring-deliveries.md)
-   + [Skapa ett målinriktat arbetsflöde](/help/process-management/create-a-targeting-workflow.md)
-   + [Använd aktiviteten för att uppdatera listor för att skapa en lista med ett arbetsflöde](/help/process-management/use-the-update-list-activity.md)
+   + [Skapa arbetsflöden för målinriktning](/help/process-management/create-a-targeting-workflow.md)
    + [Förfina mål genom att kombinera frågeresultat](/help/process-management/refine-targets-by-combining-query-results.md)
    + [Förfina mål genom att exkludera frågeresultat](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [Skapa valideringsarbetsflöden](/help/process-management/create-validation-workflows.md)
    + [Hantera godkännanden](/help/process-management/manage-approvals.md)
+   + [Använd aktiviteten för uppdateringslista](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurera berikande aktiviteter](/help/process-management/enrichment-activity.md)
 + Datahantering {#data-management}
    + [Importera profiler](/help/data-management/import-profiles.md)
