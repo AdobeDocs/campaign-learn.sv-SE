@@ -5,7 +5,7 @@ user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
+source-git-commit: 0ca9bf3d2eb01fb00e769bd2edf217b904183203
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 92%
@@ -48,7 +48,7 @@ ht-degree: 92%
       + [Utforma e-postmeddelanden för levererbarhet](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
    + SMS {#sms}
-      + [Skapa en SMS-leverans](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [Skapa en SMS-leverans](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Installera den mobila appkanalen](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Konfigurera push-kanalen med Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
