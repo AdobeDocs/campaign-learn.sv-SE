@@ -1,7 +1,6 @@
 ---
 title: Rikta in dig mot profiler i ett arbetsflöde
-description: Förstå hur du använder kampanjarbetsflöden, hur du skapar ett arbetsflöde och riktar in dig mot profiler i ett arbetsflöde med filter.
-feature: Arbetsflöden
+description: Förstå användningen av kampanjarbetsflöden och lär dig hur du skapar ett arbetsflöde och använder filtervillkor för att rikta in profiler i ett arbetsflöde.
 kt: 7842
 thumbnail: 334300.jpg
 doc-type: feature video
@@ -9,16 +8,16 @@ activity: use
 team: WWFRE
 role: User
 level: Beginner
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 08e46479272cd319377fdf27f8585acc47deea06
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 100%
+source-wordcount: '84'
+ht-degree: 45%
 
 ---
 
 # Rikta in dig mot profiler i ett arbetsflöde
 
-Förstå hur du använder kampanjarbetsflöden, hur du skapar ett arbetsflöde och riktar in dig mot profiler i ett arbetsflöde med filter.
+Förstå användningen av kampanjarbetsflöden och lär dig hur du skapar ett arbetsflöde och använder filtervillkor för att rikta in profiler i ett arbetsflöde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12)
 
