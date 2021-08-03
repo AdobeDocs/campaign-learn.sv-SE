@@ -5,10 +5,10 @@ user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
+source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 92%
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 92%
 + Profilhantering {#profile-management}
    + [Skapa och hantera profiler](/help/profile-management/create-and-manage-profiles.md)
    + [Målprofiler i ett arbetsflöde](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Kampanjorkestrering {#campaign-orchestration}
++ Kampanjsamordning {#campaign-orchestration}
    + [Kör en kampanj](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Introduktion till kampanjer i och över flera kanaler](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Skapa flerkanalskampanjer](/help/orchestrate-campaigns/multi-channel-campaigns.md)
