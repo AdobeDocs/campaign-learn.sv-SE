@@ -11,9 +11,9 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '61'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,5 @@ Den här videon förklarar hur du konfigurerar och installerar Adobe Experience 
 
 
 ## Ytterligare resurser
-
-* [Campaign Classic-tillägg för Adobe Experience Platform SDK](https://helpx-internal.corp.adobe.com/content/help/sv/campaign/kb/acc-aep-extension.html)
 
 * [Konfigurera Campaign Classic-tillägget i Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
