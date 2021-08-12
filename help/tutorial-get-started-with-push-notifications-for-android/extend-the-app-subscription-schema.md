@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ---
 
-#  Utöka [!UICONTROL appens prenumerationschema] för att personalisera push-aviseringar
+# Utöka [!UICONTROL appens prenumerationschema] för att personalisera push-aviseringar
 
 Lär dig hur du utökar [!UICONTROL appens prenumerationsschema] för att kunna lagra personaliseringsvärden [!DNL Campaign] som tas emot från en mobilapp.
 
