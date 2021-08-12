@@ -1,6 +1,6 @@
 ---
 title: Förfina mål genom att exkludera frågeresultat
-description: Lär dig förfina ditt mål genom att använda en  standardundantag för ett arbetsflöde. Lär dig hur du skapar fördefinierade filter och felsöker arbetsflödet.
+description: Lär dig hur du förfinar ditt mål genom att tillämpa ett standardundantag i ett arbetsflöde. Lär dig hur du skapar fördefinierade filter och felsöker arbetsflödet.
 feature: Arbetsflöden, målinriktad aktivitet, frågeredigeraren
 kt: 7845
 thumbnail: 335609.jpg
@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
 source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '96'
+ht-degree: 100%
 
 ---
 
 # Förfina mål genom att exkludera frågeresultat
 
-Lär dig förfina ditt mål genom att använda en  standardundantag för ett arbetsflöde. Lär dig hur du skapar fördefinierade filter och felsöker arbetsflödet.
+Lär dig hur du förfinar ditt mål genom att tillämpa ett standardundantag i ett arbetsflöde. Lär dig hur du skapar fördefinierade filter och felsöker arbetsflödet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
 
