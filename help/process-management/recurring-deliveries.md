@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '239'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 I den här självstudiekursen beskrivs hur du ställer in en återkommande och kontinuerlig leverans och skillnaderna mellan de två metoderna.
 
-## Spårning av återkommande och kontinuerlig leverans {#recurring-and-continuous-delivery-tracking}
+## Återkommande och kontinuerlig leveransspårning {#recurring-and-continuous-delivery-tracking}
 
 De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller hur kontaktdata hanteras:
 
@@ -36,12 +36,12 @@ De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller
 
 ## Så ställer du in en återkommande leverans {#how-to-set-up-a-recurring-delivery}
 
-I videon förklaras hur du konfigurerar en återkommande leverans och en schemalagd aktivitet.
+Videon förklarar hur du konfigurerar en återkommande leverans och en schemalagd aktivitet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
 ## Så ställer du in en kontinuerlig leverans {#how-to-set-up-a-continuous-delivery}
 
-I den här videon visas hur du konfigurerar en kontinuerlig leverans med en stegvis frågeställning.
+Den här videon visar hur du konfigurerar en kontinuerlig leverans med en stegvis frågeställning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
