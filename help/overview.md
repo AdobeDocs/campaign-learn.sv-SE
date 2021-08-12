@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 >[!NOTE]
 > Campaign v8 är för närvarande bara tillgängligt som en hanterad Cloud Service och kan inte distribueras i en lokal miljö eller hybridmiljö. Migrering från en befintlig Campaign Classic v7-miljö är inte tillgänglig än.
->Mer information om skillnaderna mellan de två versionerna finns i [Produktdokumentationen för Classic v7 till V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html). Se även avsnittet [Självstudiekurser om Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv) för videor med instruktioner.
+>Mer information om skillnaderna mellan de två versionerna finns i [Produktdokumentationen för Classic v7 till V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=sv). Se även avsnittet [Självstudiekurser om Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv) för videor med instruktioner.
 
 ## Nyheter
 
-[Viktiga möjligheter](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[Viktiga möjligheter](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=sv)
 
 ## Personalens val
 
@@ -31,7 +31,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 <tr>
   <td>
     <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-      <img alt="Skapa en marknadsföringsplan, ett program och kampanjer (video)" src="./assets/333810.jpg"/>
+      <img alt="Skapa en marknadsföringsplan, program och kampanjer (video)" src="./assets/333810.jpg"/>
     </a>
     <div>
       <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
@@ -39,7 +39,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     </a>
     </div>
     <p>
-    <em>Lär dig hur du skapar en marknadsföringsplan, ett program och en kampanj.</em>
+    <em>Lär dig hur du skapar en marknadsföringsplan, program och kampanj.</em>
     <p>
   </td>
    <td>
@@ -52,7 +52,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     </a>
     </div> 
     <p>
-    <em>Förstå processen med att skapa e-postleveranser och läs om hur du designar och anpassar e-postinnehåll.
+    <em>Förstå processen med att skapa e-postleveranser och lär dig hur du utformar och anpassar e-postinnehåll.
 </em>
     <p>
   </td>
@@ -66,7 +66,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     </a>
     </div>
     <p>
-    <em>Lär dig hur du implementerar trötthetshantering i Adobe Campaign med typologiregler.  </em>
+    <em>Lär dig hur du implementerar trötthetshantering i Adobe Campaign med hjälp av typologiregler. </em>
     <p>
   </td>
 </tr>
@@ -82,7 +82,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     </a>
     </div>
     <p>
-    <em>Lär dig hur du skapar en [!UICONTROL-beskrivande analysrapport] från ett arbetsflöde.</em>
+    <em>Lär dig hur du skapar en descriptive analysis report från ett arbetsflöde.</em>
     <p>
   </td>
 
@@ -90,4 +90,4 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Ytterligare resurser
 
-* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html)
+* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=sv)
