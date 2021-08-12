@@ -11,13 +11,13 @@ role: Admin, Developer
 level: Experienced
 exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
-# Utöka [!UICONTROL appens prenumerationschema] för att personalisera push-aviseringar
+#  Utöka [!UICONTROL appens prenumerationschema] för att personalisera push-aviseringar
 
 Lär dig hur du utökar [!UICONTROL appens prenumerationsschema] för att kunna lagra personaliseringsvärden [!DNL Campaign] som tas emot från en mobilapp.
 
