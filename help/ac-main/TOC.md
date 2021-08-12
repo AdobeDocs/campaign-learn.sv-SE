@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign låter marknadsförare designa kundupplev
 breadcrumb-title: Självstudiekurser
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 90%
 + [Översikt](/help/overview.md)
 + Kom igång {#getting-started}
    + [Introduktion till Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Installera och konfigurera Adobe Campaign Client Console](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
+   + [Installera och konfigurera klientkonsolen i Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Utforska användargränssnittet i Adobe Campaign ](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/get-started/manage-marketing-campaigns.md)
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -26,7 +26,7 @@ ht-degree: 90%
 + Profilhantering {#profile-management}
    + [Skapa och hantera profiler](/help/profile-management/create-and-manage-profiles.md)
    + [Målprofiler i ett arbetsflöde](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Kampanjsamordning {#campaign-orchestration}
++ Kampanjorkestrering {#campaign-orchestration}
    + [Kör en kampanj](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Introduktion till kampanjer i och över flera kanaler](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Skapa flerkanalskampanjer](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -43,7 +43,7 @@ ht-degree: 90%
 + Skicka meddelanden{#sending-messages}
    + E-post {#email}
       + [Skicka och validera bevis på e-postleverans ](/help/send-messages/email/send-and-validate-proofs.md)
-      + [Använd kontrollgrupper](/help/send-messages/email/use-control-groups.md)
+      + [Använda kontrollgrupper](/help/send-messages/email/use-control-groups.md)
       + [Felsök e-postleveransproblem](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Utforma e-postmeddelanden för levererbarhet](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
@@ -59,7 +59,7 @@ ht-degree: 90%
       + [Konfigurera egenskaper för leveransmallar](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Driftsätt en mall för ad hoc-e-postleverans](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Trötthetshantering{#fatigue-management}
-      + [Regler för typologi](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+      + [Typologiregler](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Fördefinierade filter](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Konfigurera och hantera prenumerationstjänster](/help/send-messages/configure-and-manage-subscription-services.md)
 + Processhantering och automatisering{#process-management}
@@ -70,7 +70,7 @@ ht-degree: 90%
    + [Förfina mål genom att exkludera frågeresultat](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [Skapa valideringsarbetsflöden](/help/process-management/create-validation-workflows.md)
    + [Hantera godkännanden](/help/process-management/manage-approvals.md)
-   + [Använd aktiviteten för uppdateringslista](/help/process-management/use-the-update-list-activity.md)
+   + [Använd aktiviteten att uppdatera lista](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurera berikande aktiviteter](/help/process-management/enrichment-activity.md)
 + Datahantering {#data-management}
    + [Importera profiler](/help/data-management/import-profiles.md)
