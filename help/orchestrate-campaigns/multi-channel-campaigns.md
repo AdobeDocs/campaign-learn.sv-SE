@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
 source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 # Skapa flerkanalskampanjer
 
-I en flerkanalskampanj använder en enda marknadsföringskommunikation flera kanaler för att nå en större målgrupp. Kanalerna är oberoende utan någon koppling mellan dem, vilket innebär att kunderna stannar i en kanal i ett arbetsflöde.
+I en flerkanalskampanj används flera kanaler för en enda marknadsföringskommunikation, för att nå en större målgrupp. Kanalerna är oberoende utan någon koppling mellan dem, vilket innebär att kunderna stannar i en kanal inom ett arbetsflöde.
 
 Lär dig hur du skapar en flerkanalskampanj med e-post, SMS och direktreklam baserat på mottagarens önskade kanal.
 
