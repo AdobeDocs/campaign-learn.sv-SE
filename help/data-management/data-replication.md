@@ -11,7 +11,7 @@ level: Experienced
 source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Förstå vilka databaser Adobe Campaign V8 använder, varför data replikeras, v
 
 ## Ytterligare resurser
 
-* [Datareplikering (dokumentation)](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/replication.html?lang=en#data-replication)
+* [Datareplikering (dokumentation)](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/replication.html?lang=sv#data-replication)
