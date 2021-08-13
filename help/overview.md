@@ -6,16 +6,19 @@ feature: Översikt
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
+source-git-commit: 813c9af51ac9605455d97e7a07c58d02520b62b1
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 100%
+source-wordcount: '339'
+ht-degree: 86%
 
 ---
 
 # Självstudiekurser om Adobe Campaign V8 – översikt
 
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign V8.
+
+>[!INFO]
+> Har du frågor? Vill du dela med dig av dina erfarenheter eller utbyta tankar med andra? Eller har du feedback på kursmaterialet för Adobe-teamet? Delta i konversationen i [Adobe Campaign Learning Community thread](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
 
 >[!NOTE]
 > Campaign v8 är för närvarande bara tillgängligt som en hanterad Cloud Service och kan inte distribueras i en lokal miljö eller hybridmiljö. Migrering från en befintlig Campaign Classic v7-miljö är inte tillgänglig än.
