@@ -6,10 +6,10 @@ feature: Översikt
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
+source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 77%
+source-wordcount: '364'
+ht-degree: 78%
 
 ---
 
@@ -25,8 +25,6 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 >Mer information om skillnaderna mellan de två versionerna finns i [Produktdokumentationen för Classic v7 till V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=sv). Se även avsnittet [Självstudiekurser om Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv) för videor med instruktioner.
 
 ## Nyheter
-
-Översikt över [Viktiga funktioner](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=sv)i Adobe Campaign v8.
 
 * **[Kontrollpanelen  ](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
 
