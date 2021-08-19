@@ -7,10 +7,10 @@ index: true
 feature: 'Kontrollpanelen  '
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 46%
+source-wordcount: '89'
+ht-degree: 49%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 46%
 + [Kom igång med Kontrollpanelen](/help/control-panel-tutorials/get-started.md)
 + SFTP-hantering {#sftp-management}
    + [Övervaka serverkapacitet](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
-   + [Lägg till ett IP-intervall till tillåtelselista](/help/control-panel-tutorials/sftp-management/add-ip-range-to-allowlist.md)
+   + [IP-intervall för tillåtelselista](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
    + [Generera en SSH-nyckel](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Ansluta till en SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Instansinställningar {#instance-settings}
-   + [Lägg till IP-adresser i tillåtelselista](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+   + [Tillåtelselista IP-adresser](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
    + [Lägg till URL-behörigheter](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + Hantera GPG-nycklar {#gpg-key-management}
       + [Översikt](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
