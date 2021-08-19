@@ -7,17 +7,17 @@ index: true
 feature: 'Kontrollpanelen  '
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 48%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 
 # Kontrollpanelen i Adobe Campaign – självstudiekurser {#control-panel}
 
-+ [Översikt över kontrollpanelen](/help/control-panel-tutorials/control-panel-overview.md)
++ [Översikt](/help/control-panel-tutorials/control-panel-overview.md)
 + [Kom igång med Kontrollpanelen](/help/control-panel-tutorials/get-started.md)
 + SFTP-hantering {#sftp-management}
    + [Övervaka serverkapacitet](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
@@ -28,8 +28,8 @@ ht-degree: 48%
    + [Lägg till IP-adresser i tillåtelselista](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [Lägg till URL-behörigheter](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + Hantera GPG-nycklar {#gpg-key-management}
-      + [Hantera GPG-nycklar – översikt](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generera och installera GPG-nycklar för datakryptering](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
+      + [Översikt](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [Generera och installera GPG-nycklar](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys.md)
       + [Använd en GPG-nyckel för att kryptera data](/help/control-panel-tutorials/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Dekryptera data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + Övervaka prestanda {#performance-monitoring}
