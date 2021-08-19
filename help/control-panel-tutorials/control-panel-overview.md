@@ -1,23 +1,23 @@
 ---
 title: Kontrollpanelen   - Översikt
-description: Med Adobe Campaign Kontrollpanel kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
-landing-page-description: På Kontrollpanelen kan Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter som att hantera SFTP-lagring, GPG-nycklar eller underdomäner och certifikat.
+description: Med kontrollpanelen kan Adobe Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, tillåta att IP-adresser listas eller hantera GPG-nycklar.
+landing-page-description: Med Adobe Campaign Kontrollpanel kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, tillåta att IP-adresser listas eller hantera GPG-nycklar.
 feature: 'Kontrollpanelen  '
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 54%
+source-wordcount: '216'
+ht-degree: 41%
 
 ---
 
 # Kontrollpanelen – översikt
 
-Med Adobe Campaign Kontrollpanel kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
+Med kontrollpanelen kan Adobe Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, tillåta att IP-adresser listas eller hantera GPG-nycklar.
 
 ## Personalens val
 
