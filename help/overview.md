@@ -6,10 +6,10 @@ feature: Översikt
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 047d3143f879e3d916505cbb26c88c0549ac5ccb
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 84%
+source-wordcount: '380'
+ht-degree: 77%
 
 ---
 
@@ -27,6 +27,10 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 ## Nyheter
 
 Översikt över [Viktiga funktioner](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=sv)i Adobe Campaign v8.
+
+* **[Kontrollpanelen  ](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+
+   *Lär dig hur du övervakar viktiga resurser och utför administrativa uppgifter, som att hantera SFTP-lagring per instans, tillåta listning av IP-adresser eller hantera GPG-nycklar.*
 
 ## Personalens val
 
