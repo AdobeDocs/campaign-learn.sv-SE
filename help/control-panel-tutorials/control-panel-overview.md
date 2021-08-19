@@ -1,32 +1,23 @@
 ---
 title: Kontrollpanelen   - Översikt
-description: Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
+description: Med Adobe Campaign Kontrollpanel kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
 landing-page-description: På Kontrollpanelen kan Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter som att hantera SFTP-lagring, GPG-nycklar eller underdomäner och certifikat.
 feature: 'Kontrollpanelen  '
-kt: 3262
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
-exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: e64bbfc8f0afd2e4a6b3bd98b261e0554ff51a78
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 54%
 
 ---
 
 # Kontrollpanelen – översikt
 
-Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
-
-## Nyheter
-
-* **[Övervaka databaser](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
-
-   *Läs om hur du övervakar databasanvändningen på dina instanser.*
+Med Adobe Campaign Kontrollpanel kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
 
 ## Personalens val
 
@@ -46,11 +37,11 @@ Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign över
     <p>
   </td>
   <td>
-    <a href="./generate-and-install-gpg-keys-for-data-encryption.md">
+    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
       <img alt="Ansluta till en SFTP-server" src="./assets/36386.jpg" />
     </a>
     <div>
-      <a href="./generate-and-install-gpg-keys-for-data-encryption.md">
+      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
     <strong>Generera och installera GPG-nycklar för datakryptering</strong>
     </a>
     </div>
