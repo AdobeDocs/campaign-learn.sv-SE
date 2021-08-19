@@ -5,10 +5,10 @@ feature: 'Kontrollpanelen  '
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 24%
 
 ---
 
@@ -18,7 +18,7 @@ GPG (GnuPG) krypterar meddelanden med asymmetriska individuella nyckelpar. För 
 
 Lär dig hur du skapar och installerar ett nyckelpar för offentlig/privat nyckel på en angiven [!DNL Campaign]-instans.
 
-1. [Generera och installera GPG-nycklar för datakryptering](./generate-and-install-gpg-keys-for-data-encryption.md)
+1. [Generera och installera GPG-nycklar för datakryptering](./generate-and-install-gpg-keys.md)
 2. [Använd en GPG-nyckel för att kryptera data](./use-a-gpg-key-to-encrypt-data.md)
 3. [Dekryptera data](./decrypt-data.md)
 
