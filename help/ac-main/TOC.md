@@ -5,10 +5,10 @@ user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 98%
+source-wordcount: '318'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 # Självstudiekurser om Adobe Campaign V8 {#tutorials}
 
 + [Översikt](/help/overview.md)
++ [Viktiga funktioner i Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=sv)
 + Kom igång {#getting-started}
    + [Introduktion till Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
    + [Installera och konfigurera klientkonsolen i Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
