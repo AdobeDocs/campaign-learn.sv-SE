@@ -7,10 +7,10 @@ index: true
 feature: 'Kontrollpanelen  '
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '102'
+ht-degree: 48%
 
 ---
 
@@ -34,4 +34,4 @@ ht-degree: 0%
       + [Dekryptera data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + Övervaka prestanda {#performance-monitoring}
    + [Övervaka databaser](/help/control-panel-tutorials/performance-monitoring/monitor-databases.md)
-+ [Felsöka Kontrollpanelen](/help/control-panel-tutorials/trouble-shooting.md)
++ [Felsöka](/help/control-panel-tutorials/troubleshooting.md)
