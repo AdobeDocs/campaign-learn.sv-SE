@@ -1,7 +1,7 @@
 ---
 title: Dekryptera data
 description: I videon nedan beskrivs hur du skapar en offentlig nyckel samt importerar och installerar den på en instans i Campaign för att dekryptera data.
-feature: 'Kontrollpanelen  '
+feature: Kontrollpanelen
 kt: 8516
 thumbnail: 36482.jpg
 doc-type: feature video
@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -27,4 +27,4 @@ Läs mer om hur du skapar en offentlig nyckel samt importerar och installerar de
 ## Ytterligare resurser
 
 * [Hantera GPG-nycklar (videor)](./gpg-key-management-overview.md)
-* [Hantera GPG-nycklar (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-nyckelhantering (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=sv)
