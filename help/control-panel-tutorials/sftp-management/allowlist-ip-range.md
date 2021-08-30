@@ -1,7 +1,7 @@
 ---
 title: IP-intervall för tillåtelselista
 description: Lär dig hur du kan lägga till ett IP-adressintervall till en tillåtelselista.
-feature: 'Kontrollpanelen  '
+feature: Kontrollpanelen
 kt: 8511
 thumbnail: 41775.jpg
 doc-type: feature video
@@ -11,9 +11,9 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
@@ -27,4 +27,4 @@ Lär dig hur du kan lägga till ett IP-adressintervall till en tillåtelselista.
 
 ## Ytterligare resurser
 
-* [IP-intervall tillåter listning (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [IP intervall tillåtelselsita (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=sv)
