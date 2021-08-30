@@ -1,7 +1,7 @@
 ---
 title: Övervaka databaser
 description: Läs om hur du övervakar databasanvändningen på dina instanser.
-feature: 'Kontrollpanelen  '
+feature: Kontrollpanelen
 kt: 8519
 thumbnail: 327175.jpg
 doc-type: feature video
@@ -11,15 +11,15 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '89'
+ht-degree: 100%
 
 ---
 
 # Övervaka databaser
 
-Alla resurser, arbetsflöden och data för Campaign-instansen lagras i databasen. Databasen når sin maximala kapacitet kan orsaka problem med instansen (oförmåga att logga in, skicka e-post osv.). Därför är det viktigt att du regelbundet övervakar instansens databaser för att säkerställa optimal prestanda.
+Alla resurser, arbetsflöden och data för Campaign-instansen lagras i databasen. Om databasen når sin maximala kapacitet kan det orsaka problem med instansen (oförmåga att logga in, skicka e-post osv.). Därför är det viktigt att du regelbundet övervakar instansens databaser för att säkerställa optimal prestanda.
 
 Läs om hur du övervakar databasanvändningen på dina instanser.
 
