@@ -1,7 +1,7 @@
 ---
 title: Lägg till URL-behörigheter
 description: Lär dig hur du upprättar en anslutning från din Adobe Campaign-instans till en extern URL.
-feature: 'Kontrollpanelen  '
+feature: Kontrollpanelen
 kt: 8514
 thumbnail: 28149.jpg
 doc-type: feature video
@@ -10,9 +10,9 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Lär dig hur du upprättar en anslutning från din [!UICONTROL Adobe Campaign]-i
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
-Mer information finns i [produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/url-permissions.html).
+För mer information, se [produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/url-permissions.html?lang=sv).
