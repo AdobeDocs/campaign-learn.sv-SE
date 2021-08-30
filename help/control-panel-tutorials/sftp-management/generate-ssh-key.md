@@ -1,7 +1,7 @@
 ---
 title: Generera en SSH-nyckel
 description: Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen.
-feature: 'Kontrollpanelen  '
+feature: Kontrollpanelen
 kt: 8512
 thumbnail: 27259.jpg
 doc-type: feature video
@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '124'
+ht-degree: 100%
 
 ---
 
@@ -30,10 +30,10 @@ För att få åtkomst till SFTP-hantering på kontrollpanelen ska du gå du till
 
 * Direkt från webbadressen: [http://experience.adobe.com/#/controlpanel/sftp](https://experience.adobe.com/)
 
-## Generera en SSH-nyckel
+## Så genererar du en SSH-nyckel
 
 Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 
-*Skapa en SSH-nyckel (2:16 min)*
+*Så skapar du en SSH-nyckel (2:16 min)*
