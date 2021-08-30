@@ -1,23 +1,23 @@
 ---
-title: Kontrollpanelen   - Översikt
-description: Med kontrollpanelen kan Adobe Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, tillåta att IP-adresser listas eller hantera GPG-nycklar.
-landing-page-description: Med Adobe Campaign Kontrollpanel kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, tillåta att IP-adresser listas eller hantera GPG-nycklar.
-feature: 'Kontrollpanelen  '
+title: Kontrollpanelen - Översikt
+description: Kontrollpanelen låter administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagringen per instans eller tillåta listning av IP-adresser, eller hantera GPG-nycklar.
+landing-page-description: Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagring per instans, tillåta listning av IP-adresser eller hantera GPG-nycklar.
+feature: Kontrollpanelen
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
 source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '216'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # Kontrollpanelen – översikt
 
-Med kontrollpanelen kan Adobe Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, tillåta att IP-adresser listas eller hantera GPG-nycklar.
+Kontrollpanelen låter administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagringen per instans eller tillåta listning av IP-adresser, eller hantera GPG-nycklar.
 
 ## Personalens val
 
@@ -33,7 +33,7 @@ Med kontrollpanelen kan Adobe Campaign-administratörer övervaka viktiga resurs
     </a>
     </div>
     <p>
-    <em>Lär dig hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.  </em>
+    <em>Lär dig hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen. </em>
     <p>
   </td>
   <td>
