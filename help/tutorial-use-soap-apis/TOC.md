@@ -2,10 +2,10 @@
 user-guide-title: Använda Campaign SOAP API:er
 user-guide-description: Lär dig hur du använder Adobe Campaign Soap API:er och skapar ett avancerat leveransarbetsflöde.
 breadcrumb-title: Använda Campaign SOAP API:er
-breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
+breadcrumb-url: /campaign-learn/use-soap-apis/introduction.html
+source-git-commit: 475a1e30c2aa0c65eb1644e6d84f7544b684bde1
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
