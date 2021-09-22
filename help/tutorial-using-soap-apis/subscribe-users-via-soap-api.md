@@ -6,16 +6,18 @@ kt: 8165
 thumbnail: 336538.jpg
 role: Admin, Developer
 level: Experienced
-source-git-commit: 8de1ac833bd1c5d3298f45cacca1f0ead4c77fb3
+exl-id: 6bd2f88a-9da4-43ea-8b18-b51a4024ea2a
+source-git-commit: 708f78633c52f1ae65d424dfcb956abd2ceb48f4
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
-
 
 # Prenumerera användare via SOAP API
 
 Lär dig hur du skapar en nyhetsbrevtjänst och prenumererar på en mottagare med SOAP API-anrop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12)
+
+Fortsätt till: [Steg 4 - Skapa en innehållssammanfattning med ett arbetsflöde](/help/process-management/create-a-content-digest/create-a-content-digest-overview.md)
