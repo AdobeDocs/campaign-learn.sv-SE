@@ -9,7 +9,7 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: e13b99b6b1fbb370304fa6880d108799d1285dba
+source-git-commit: 3d4412fb770d998171a2c3713e1b8a4d9422ac8e
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Lär dig hur du hämtar data med olika målinriktnings- och filtreringsdimension
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
 
-Nästa steg: [Koppla kolumner och skicka e-postleverans](/help/process-management/create-a-content-digest/join-columns-and-send-automated-email-delivery.md))
+Nästa steg: [Koppla kolumner och skicka e-postleverans](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md))
