@@ -1,5 +1,5 @@
 ---
-title: Skapa en"ny artikelavisering" för e-postleverans till prenumeranter - översikt
+title: Skapa en leverans av en artikelavisering - Översikt
 description: Lär dig hur du skapar ett arbetsflöde som varnar mottagare om nya artiklar som de prenumererar på via en e-postleverans.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
@@ -7,14 +7,14 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 87bf30887ee6dfd08094ce4a94a7cd1cdcaa2641
+source-git-commit: cd82b3ba087ed7d724798b1604588834475a3f5c
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Skapa en&quot;ny artikelavisering&quot; för e-postleverans till prenumeranter - översikt
+# Skapa en leverans av en artikelavisering - Översikt
 
 Lär dig hur du skapar ett arbetsflöde som varnar mottagare om nya artiklar som de prenumererar på via en e-postleverans.
 
