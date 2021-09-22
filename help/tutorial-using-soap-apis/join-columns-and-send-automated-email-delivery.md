@@ -1,6 +1,6 @@
 ---
 title: Skicka e-postmeddelanden automatiskt
-description: null
+description: Lär dig hur du går samman i två segment och lägger till en anpassad e-postleverans, som innehåller en innehållssammanfattning, i prenumerationsflödet för nyhetsbrev.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8167
 thumbnail: 336940.jpg
@@ -9,9 +9,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: e13b99b6b1fbb370304fa6880d108799d1285dba
+source-git-commit: 87b8b5a2616ecb83e70a14adc8e5da804a42da49
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
