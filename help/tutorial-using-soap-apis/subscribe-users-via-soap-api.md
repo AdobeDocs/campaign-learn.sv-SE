@@ -7,9 +7,9 @@ thumbnail: 336538.jpg
 role: Admin, Developer
 level: Experienced
 exl-id: 6bd2f88a-9da4-43ea-8b18-b51a4024ea2a
-source-git-commit: 708f78633c52f1ae65d424dfcb956abd2ceb48f4
+source-git-commit: a30d1c80a8ee3d41c7bdbdf355a4ad0227251414
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ Lär dig hur du skapar en nyhetsbrevtjänst och prenumererar på en mottagare me
 
 >[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12)
 
-Fortsätt till: [Steg 4 - Skapa en innehållssammanfattning med ett arbetsflöde](/help/process-management/create-a-content-digest/create-a-content-digest-overview.md)
+Fortsätt till: [Steg 4 - Skapa en innehållssammanfattning med ett arbetsflöde](/help/tutorial-using-soap-apis/create-article-alert-email-overview.md
