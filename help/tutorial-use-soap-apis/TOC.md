@@ -3,7 +3,7 @@ user-guide-title: Använda Campaign SOAP API:er
 user-guide-description: Lär dig hur du använder Adobe Campaign Soap API:er och skapar ett avancerat leveransarbetsflöde.
 breadcrumb-title: Använda Campaign SOAP API:er
 breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 + Steg 4 - Skapa en artikelvarningsleverans{#article-alert-email}
    + [Skapa leverans av artikelaviseringar](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)
    + [Del 1 - Frågeartiklar och mottagarprenumerationsvärden](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
-   + [Del 2 - Koppla kolumner och skicka e-postleverans](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
+   + [Del 2 - Skicka en leverans till mottagare som prenumererar](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

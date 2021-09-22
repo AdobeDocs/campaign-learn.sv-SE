@@ -9,7 +9,7 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Lär dig hur du hämtar data med olika målinriktnings- och filtreringsdimension
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
 
-Nästa steg: [Koppla kolumner och skicka e-postleverans](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
+Nästa steg: [Skicka en leverans till mottagare som prenumererar](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
