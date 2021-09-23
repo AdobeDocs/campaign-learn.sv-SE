@@ -7,7 +7,7 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
+source-git-commit: 9f95ebbbd5fb9fbb1b586eb8edee6e68599a2dec
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -22,5 +22,5 @@ Lär dig hur du skapar ett arbetsflöde som varnar mottagare om nya artiklar som
 
 *Fråga data med olika målinriktnings- och filtreringsdimensioner och hur du förenar utdata med en skärning.*
 
-**Steg 2:** [Skicka en leverans till ](/help/tutorial-use-soap-apis/send-delivery-to%20subscribed-recipients.md)
+**Steg 2:** [Skicka en leverans till ](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
 *mottagare som prenumererarLär dig hur du går med i data i två segment, skapar ett artikelvarningsmeddelande och anpassar det baserat på data som tagits emot från ett externt API.*
