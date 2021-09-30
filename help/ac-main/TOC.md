@@ -5,10 +5,10 @@ user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 3bbec9aa316069143b356ea79f93291b403e9997
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 96%
+source-wordcount: '338'
+ht-degree: 93%
 
 ---
 
@@ -80,6 +80,7 @@ ht-degree: 96%
 + Anslut till andra lösningar {#connect}
    + [Stordatahantering på Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Integrera med Dynamics 365](/help/connect/dynamics365-integration.md)
+   + [Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
 + Rapportering {#reporting}
    + [Åtkomst till inbyggda rapporter](/help/reporting/access-built-in-reports.md)
    + [Generera en beskrivande analysrapport](/help/reporting/generate-a-descriptive-analysis-report.md)
