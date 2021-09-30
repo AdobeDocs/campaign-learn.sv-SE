@@ -3,7 +3,7 @@ user-guide-title: Integrera med Experience Platform
 user-guide-description: Lär dig hur du importerar och exporterar Campaign- och Experience Cloud-data, vilket möjliggör kommunikation mellan de två lösningarna.
 breadcrumb-title: Integrera med Experience Platform
 breadcrumb-url: /campaign-learn/integrate-with-experience-platform/introduction.html
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Integrera med Experience Platform {#experience-platform-data-integration}
 
-+ [Introduktion](/help/tutorial-integrate-with-experience-platform/introduction.md)
++ [Översikt](/help/tutorial-integrate-with-experience-platform/overview.md)
 + [Importera data från Experience Platform till kampanj]{#import-experience-platform-data-into-campaign}
    + [Anslut kampanj till Experience Platform som mål](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
    + [Importera mottagardata från Experience Platform och skicka ett e-postmeddelande](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
