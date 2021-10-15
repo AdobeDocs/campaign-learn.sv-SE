@@ -1,6 +1,6 @@
 ---
-title: Skapa ett exportarbetsflöde (del 2) - Extrahera, formatera och spara data till ett externt konto
-description: I den andra delen av självstudiekursen Skapa ett exportarbetsflöde får du lära dig hur du formaterar data för export och hur du sparar data på ett externt konto.
+title: Skapa ett exportarbetsflöde (del 2) – extrahera, formatera och spara data till ett externt konto
+description: I den andra delen av självstudiekursen Skapa ett exportarbetsflöde får du lära dig hur du formaterar data för export och hur du sparar data till ett externt konto.
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -11,21 +11,21 @@ role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Skapa ett exportarbetsflöde (del 2): Extrahera, formatera och spara data till ett externt konto
+# Skapa ett exportarbetsflöde (del 2): extrahera, formatera och spara data till ett externt konto
 
-I den andra delen av självstudiekursen Skapa ett exportarbetsflöde får du lära dig hur du formaterar data för export och hur du sparar data på ett externt konto.
+I den andra delen av självstudiekursen Skapa ett exportarbetsflöde får du lära dig hur du formaterar data för export och hur du sparar data till ett externt konto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12)
 
 ## Resurser
 
-JavaScript: Spara datum
+JavaScript: spara datum
 
 ```java
  logInfo("=====================")
