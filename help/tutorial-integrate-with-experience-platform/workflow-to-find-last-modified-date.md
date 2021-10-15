@@ -1,6 +1,6 @@
 ---
-title: Skapa ett exportarbetsflöde (del 1) - Hitta det senaste ändringsdatumet för en lista över mottagare
-description: I den här första delen av självstudiekursen Skapa ett exportarbetsflöde kan du lära dig hur du skapar ett arbetsflöde som hittar det senaste ändringsdatumet för en lista med mottagare som skapats från ett Experience Platform-segment.
+title: Skapa ett exportarbetsflöde (del 1) – hitta datumet för senaste ändring för en lista över mottagare
+description: I den här första delen av självstudiekursen Skapa ett exportarbetsflöde, får du lära dig hur du skapar ett arbetsflöde som hittar datumet för senaste ändring för en lista med mottagare som skapats från ett Experience Platform-segment.
 feature: Data Import/Export, Workflows
 kt: 8162
 thumbnail: 336387.jpg
@@ -11,15 +11,15 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Skapa ett exportarbetsflöde (del 1) - Hitta det senaste ändringsdatumet för en lista över mottagare
+# Skapa ett exportarbetsflöde (del 1) – hitta datumet för senaste ändring för en lista över mottagare
 
-I den här första delen av självstudiekursen Skapa ett exportarbetsflöde kan du lära dig hur du skapar ett arbetsflöde som hittar det senaste ändringsdatumet för en lista med mottagare som skapats från ett Experience Platform-segment.
+I den här första delen av självstudiekursen Skapa ett exportarbetsflöde, får du lära dig hur du skapar ett arbetsflöde som hittar datumet för senaste ändring för en lista med mottagare som skapats från ett Experience Platform-segment.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
 
@@ -64,4 +64,4 @@ JavaScript för att skapa datumintervall:
 
 ## Nästa video
 
-[Skapa ett exportarbetsflöde (del 2) - Extrahera, formatera och spara data till ett externt konto](extract-format-save-data-to-external-account.md)
+[Skapa ett exportarbetsflöde (del 2) – extrahera, formatera och spara data till ett externt konto](extract-format-save-data-to-external-account.md)
