@@ -5,9 +5,9 @@ user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '338'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -75,11 +75,11 @@ ht-degree: 93%
 + Datahantering {#data-management}
    + [Importera profiler](/help/data-management/import-profiles.md)
    + [Datareplikering](/help/data-management/data-replication.md)
-   + [Självstudiekurs: Använd SOAP API:er](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
+   + [Självstudiekurs: använd SOAP API:er](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=sv)
 + Anslut till andra lösningar {#connect}
    + [Stordatahantering på Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Integrera med Dynamics 365](/help/connect/dynamics365-integration.md)
-   + [Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.htmll?lang=sv)
 + Rapportering {#reporting}
    + [Åtkomst till inbyggda rapporter](/help/reporting/access-built-in-reports.md)
    + [Generera en beskrivande analysrapport](/help/reporting/generate-a-descriptive-analysis-report.md)
@@ -87,4 +87,4 @@ ht-degree: 93%
    + [Värmekarta för arbetsflöde](/help/monitoring/workflow-heatmap.md)
    + [Granskningsspår](/help/monitoring/audit-trail.md)
 + Administration {#administration}
-   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=sv)
+   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.htmll?lang=sv)
