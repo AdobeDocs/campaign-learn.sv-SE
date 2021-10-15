@@ -1,6 +1,6 @@
 ---
 title: Skicka en leverans till mottagare som prenumererar
-description: Lär dig hur du kopplar data till två segment, skapar ett artikelvarningsmeddelande och anpassar det baserat på data som tagits emot från ett externt API.
+description: Lär dig hur du kopplar data från två segment, skapar ett artikelvarningsmeddelande via e-post och anpassar det baserat på data som tagits emot från ett externt API.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8167
 thumbnail: 336940.jpg
@@ -9,16 +9,16 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
-workflow-type: tm+mt
+exl-id: 3280371c-b088-4da9-bc2c-f7a401719db8
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Skicka en leverans till mottagare som prenumererar
 
-Lär dig hur du kopplar data till två segment, skapar ett artikelvarningsmeddelande och anpassar det baserat på data som tagits emot från ett externt API. Vi fortsätter att skapa arbetsflödet som skapades i föregående steg: [Läs artiklar och mottagarabonnemangsvärden](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md) video.
+Lär dig hur du kopplar data från två segment, skapar ett artikelvarningsmeddelande via e-post och anpassar det baserat på data som tagits emot från ett externt API. Vi fortsätter att bygga arbetsflödet som skapades i föregående steg: videon [Fråga artiklar och mottagarprenumerationsvärden](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12)
