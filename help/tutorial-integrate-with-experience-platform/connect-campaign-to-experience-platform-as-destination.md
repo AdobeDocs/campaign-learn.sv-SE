@@ -1,6 +1,6 @@
 ---
-title: Anslut kampanj till Experience Platform som mål
-description: Lär dig hur du aktiverar ett Adobe Experience Platform-segment till ett mål med Amazon S3-anslutningstypen.
+title: Anslut Campaign till Experience Platform som ett mål
+description: Lär dig hur du aktiverar ett Adobe Experience Platform-segment till ett mål med anslutningstypen Amazon S3.
 feature: Data Management, Data Import/Export
 kt: 8175
 thumbnail: 336902.jpg
@@ -11,14 +11,14 @@ role: Admin
 level: Beginner, Experienced
 exl-id: bdfcf733-dd4b-42d1-a063-2a72f0111cca
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Anslut kampanj till Experience Platform som mål
+# Anslut Campaign till Experience Platform som ett mål
 
-Lär dig hur du aktiverar ett Adobe Experience Platform-segment till ett mål med Amazon S3-anslutningstypen.
+Lär dig hur du aktiverar ett Adobe Experience Platform-segment till ett mål med anslutningstypen Amazon S3.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12)
