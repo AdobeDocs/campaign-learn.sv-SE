@@ -1,6 +1,6 @@
 ---
 title: Skapa ett kampanjloggsschema och en datamängd i Adobe Experience Platform
-description: Lär dig hur du skapar ett schema och en datauppsättning i Adobe Experience Platform som kan användas för att importera kampanjloggdata till Platform.
+description: Lär dig hur du skapar ett schema och en datamängd i Adobe Experience Platform som kan användas för att importera kampanjloggdata till Platform.
 feature: Data Import/Export, Data Management
 kt: 8161
 thumbnail: 336903.jpg
@@ -11,14 +11,14 @@ role: Developer
 level: Experienced
 exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Skapa ett kampanjloggsschema och en datamängd i Adobe Experience Platform
 
-Lär dig hur du skapar ett schema och en datauppsättning i Adobe Experience Platform som kan användas för att importera kampanjloggdata till Platform.
+Lär dig hur du skapar ett schema och en datamängd i Adobe Experience Platform som kan användas för att importera kampanjloggdata till Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336903?quality=12)
