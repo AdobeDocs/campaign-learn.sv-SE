@@ -1,5 +1,5 @@
 ---
-title: Ansluta kampanjdata med S3 som källa i Adobe Experience Platform
+title: Anslut Campaign-data med S3 som källa i Adobe Experience Platform
 description: Lär dig hur du importerar data med hjälp av en källanslutning i Experience Platform för att uppdatera profildata med exporterade kampanjloggar.
 feature: Data Import/Export, Data Management
 kt: 8159
@@ -11,13 +11,13 @@ role: Developer
 level: Experienced
 exl-id: 880c91ab-0e36-45b4-af42-fade61915e38
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Ansluta kampanjdata med S3 som källa i Adobe Experience Platform
+# Anslut Campaign-data med S3 som källa i Adobe Experience Platform
 
 Lär dig hur du importerar data med hjälp av en källanslutning i Experience Platform för att uppdatera profildata med exporterade kampanjloggar.
 
@@ -25,5 +25,5 @@ Lär dig hur du importerar data med hjälp av en källanslutning i Experience Pl
 
 ## Ytterligare resurser
 
-* [Anslut kampanj till Experience Platform som mål](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
+* [Anslut Campaign till Experience Platform som ett mål](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
 * [Skapa ett kampanjloggsschema och en datamängd i Adobe Experience Platform](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)
