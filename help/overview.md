@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: ca00618239e9efa68a15b7e19891e9900920fb20
-workflow-type: ht
-source-wordcount: '424'
-ht-degree: 100%
+source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+workflow-type: tm+mt
+source-wordcount: '407'
+ht-degree: 95%
 
 ---
 
@@ -26,6 +26,10 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
+* **[Skapa och utöka ett schema](/help/data-management/create-and-extend-a-schema.md)**
+
+   *Lär dig hur du skapar ett nytt schema och utökar ett befintligt schema.*
+
 * **[Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.htmll?lang=sv)**
 
    *Lär dig hur du importerar och exporterar Campaign- och Experience Cloud-data, vilket möjliggör kommunikation mellan de två lösningarna.*
@@ -34,9 +38,6 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
    *Lär dig hur du använder Adobe Campaign Soap API:er och skapar ett avancerat leveransarbetsflöde baserat på data som tas emot via API:et.*
 
-* **[Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=sv)**
-
-   *Lär dig hur du övervakar viktiga resurser och utför administrativa uppgifter, som att hantera SFTP-lagring per instans, tillåta listning av IP-adresser eller hantera GPG-nycklar.*
 
 ## Personalens val
 

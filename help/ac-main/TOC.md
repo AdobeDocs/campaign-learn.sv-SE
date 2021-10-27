@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: ht
-source-wordcount: '338'
-ht-degree: 100%
+source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -73,6 +73,7 @@ ht-degree: 100%
    + [Använd aktiviteten att uppdatera lista](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurera berikande aktiviteter](/help/process-management/enrichment-activity.md)
 + Datahantering {#data-management}
+   + [Skapa och utöka ett schema](/help/data-management/create-and-extend-a-schema.md)
    + [Importera profiler](/help/data-management/import-profiles.md)
    + [Datareplikering](/help/data-management/data-replication.md)
    + [Självstudiekurs: använd SOAP API:er](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=sv)
