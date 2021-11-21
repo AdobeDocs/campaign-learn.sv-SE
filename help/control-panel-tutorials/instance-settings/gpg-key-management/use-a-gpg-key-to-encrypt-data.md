@@ -1,7 +1,7 @@
 ---
-title: 'Kryptera data med en GPG-nyckel '
+title: Kryptera data med en GPG-nyckel
 description: Läs mer om hur du exporterar data med en GPG-nyckel som installeras på kontrollpanelen.
-feature: Kontrollpanelen
+feature: Control Panel
 kt: 8518
 thumbnail: 36399.jpg
 doc-type: feature video
@@ -9,9 +9,10 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: ht
-source-wordcount: '59'
+exl-id: d423f8e2-6ee0-4ed1-a39b-1a654d6bc023
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---
@@ -25,4 +26,4 @@ Läs mer om hur du exporterar data med en GPG-nyckel som installeras på kontrol
 ## Ytterligare resurser
 
 * [Hantera GPG-nycklar (videor)](./gpg-key-management-overview.md)
-* [Hantera GPG-nycklar (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=sv)
+* [GPG-nyckelhantering (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=sv)
