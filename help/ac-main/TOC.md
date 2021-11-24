@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: f25e3e7553d23aacf96c0f05e1ad78ee783192ff
+source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 93%
+source-wordcount: '374'
+ht-degree: 91%
 
 ---
 
@@ -65,17 +65,22 @@ ht-degree: 93%
 + Processhantering och automatisering{#process-management}
    + [Skapa ett arbetsflöde](/help/process-management/create-a-workflow.md)
    + [Skapa återkommande och kontinuerliga leveranser](/help/process-management/recurring-deliveries.md)
-   + [Skapa arbetsflöden för målinriktning](/help/process-management/create-a-targeting-workflow.md)
-   + [Förfina mål genom att kombinera frågeresultat](/help/process-management/refine-targets-by-combining-query-results.md)
-   + [Förfina mål genom att exkludera frågeresultat](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + [Hantera godkännanden](/help/process-management/manage-approvals.md)
-   + [Använd aktiviteten att uppdatera lista](/help/process-management/use-the-update-list-activity.md)
+   + Målarbetsflöden {#targeting workflows}
+      + [Skapa arbetsflöden för målinriktning](/help/process-management/create-a-targeting-workflow.md)
+      + [Förfina mål genom att kombinera frågeresultat](/help/process-management/refine-targets-by-combining-query-results.md)
+      + [Förfina mål genom att exkludera frågeresultat](/help/process-management/refine-targets-by-excluding-query-results.md)
+   + Arbetsflöden för godkännande och validering {#create-approvals-and-validation-workflows}
+   + [Så här använder du aktiviteten för uppdateringslistan](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurera berikande aktiviteter](/help/process-management/enrichment-activity.md)
-   + Skapa arbetsflöden för godkännandevalidering {#create-validation-workflows}
+      + [Introduktion](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
+      + [Hantera godkännanden](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Konfigurera godkännanden för kampanjer](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
       + [Konfigurera godkännanden för leveranser](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
       + [Skapa en godkännandeprocess i ett arbetsflöde](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
 + Datahantering {#data-management}
+   + [Hantera godkännanden](/help/process-management/manage-approvals.md)
+   + [Använd aktiviteten att uppdatera lista](/help/process-management/use-the-update-list-activity.md)
+   + [Konfigurera berikande aktiviteter](/help/process-management/enrichment-activity.md)
    + [Skapa och utöka ett schema](/help/data-management/create-and-extend-a-schema.md)
    + [Importera profiler](/help/data-management/import-profiles.md)
    + [Datareplikering](/help/data-management/data-replication.md)
