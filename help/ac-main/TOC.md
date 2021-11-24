@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+source-git-commit: 9a485e259e4105a6ccdd06e3374ab3d1a3810280
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 98%
+source-wordcount: '362'
+ht-degree: 93%
 
 ---
 
@@ -72,6 +72,10 @@ ht-degree: 98%
    + [Hantera godkännanden](/help/process-management/manage-approvals.md)
    + [Använd aktiviteten att uppdatera lista](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurera berikande aktiviteter](/help/process-management/enrichment-activity.md)
+   + Skapa arbetsflöden för godkännandevalidering {#create-validation-workflows}
+      + [Konfigurera godkännanden för kampanjer](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Konfigurera godkännanden för leveranser](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Skapa en godkännandeprocess i ett arbetsflöde](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
 + Datahantering {#data-management}
    + [Skapa och utöka ett schema](/help/data-management/create-and-extend-a-schema.md)
    + [Importera profiler](/help/data-management/import-profiles.md)
