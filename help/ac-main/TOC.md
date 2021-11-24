@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
+source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 91%
@@ -65,7 +65,7 @@ ht-degree: 91%
 + Processhantering och automatisering{#process-management}
    + [Skapa ett arbetsflöde](/help/process-management/create-a-workflow.md)
    + [Skapa återkommande och kontinuerliga leveranser](/help/process-management/recurring-deliveries.md)
-   + Målarbetsflöden {#targeting workflows}
+   + Målarbetsflöden {#targeting-workflows}
       + [Skapa arbetsflöden för målinriktning](/help/process-management/create-a-targeting-workflow.md)
       + [Förfina mål genom att kombinera frågeresultat](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Förfina mål genom att exkludera frågeresultat](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -74,9 +74,9 @@ ht-degree: 91%
    + [Konfigurera berikande aktiviteter](/help/process-management/enrichment-activity.md)
       + [Introduktion](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Hantera godkännanden](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [Konfigurera godkännanden för kampanjer](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Konfigurera godkännanden för leveranser](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
-      + [Skapa en godkännandeprocess i ett arbetsflöde](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [Konfigurera godkännanden för kampanjer](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Konfigurera godkännanden för leveranser](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Skapa en godkännandeaktivitet i ett arbetsflöde](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Datahantering {#data-management}
    + [Hantera godkännanden](/help/process-management/manage-approvals.md)
    + [Använd aktiviteten att uppdatera lista](/help/process-management/use-the-update-list-activity.md)
