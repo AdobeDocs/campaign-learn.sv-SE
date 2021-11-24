@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
+source-git-commit: b0fcde90e008222c069d952099c7154856e91fef
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 91%
+source-wordcount: '364'
+ht-degree: 92%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 91%
    + [Konfigurera landningssidor](/help/content-creation/configure-landingpages.md)
 + Skicka meddelanden{#sending-messages}
    + E-post {#email}
-      + [Skicka och validera bevis på e-postleverans ](/help/send-messages/email/send-and-validate-proofs.md)
+      + [Skicka och validera bevis på e-postleverans](/help/send-messages/email/send-and-validate-proofs.md)
       + [Använda kontrollgrupper](/help/send-messages/email/use-control-groups.md)
       + [Felsök e-postleveransproblem](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Utforma e-postmeddelanden för levererbarhet](/help/send-messages/email/design-emails-for-deliverability.md)
@@ -70,8 +70,6 @@ ht-degree: 91%
       + [Förfina mål genom att kombinera frågeresultat](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Förfina mål genom att exkludera frågeresultat](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Arbetsflöden för godkännande och validering {#create-approvals-and-validation-workflows}
-   + [Så här använder du aktiviteten för uppdateringslistan](/help/process-management/use-the-update-list-activity.md)
-   + [Konfigurera berikande aktiviteter](/help/process-management/enrichment-activity.md)
       + [Introduktion](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Hantera godkännanden](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Konfigurera godkännanden för kampanjer](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
