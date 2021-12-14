@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 95%
+source-wordcount: '388'
+ht-degree: 91%
 
 ---
 
@@ -26,6 +26,10 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
+* **[API-mellanlagringsmekanism med FFDA](/help/data-management/api-staging-mechanism.md)**
+
+   *Lär dig hur API-mellanlagringsmekanismen med FDA fungerar.*
+
 * **[Skapa och utöka ett schema](/help/data-management/create-and-extend-a-schema.md)**
 
    *Lär dig hur du skapar ett nytt schema och utökar ett befintligt schema.*
@@ -33,10 +37,6 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 * **[Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.htmll?lang=sv)**
 
    *Lär dig hur du importerar och exporterar Campaign- och Experience Cloud-data, vilket möjliggör kommunikation mellan de två lösningarna.*
-
-* **[Självstudiekurs: använd SOAP API:er i arbetsflöden](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.htmll?lang=sv)**
-
-   *Lär dig hur du använder Adobe Campaign Soap API:er och skapar ett avancerat leveransarbetsflöde baserat på data som tas emot via API:et.*
 
 
 ## Personalens val
