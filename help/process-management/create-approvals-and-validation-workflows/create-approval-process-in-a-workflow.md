@@ -1,6 +1,6 @@
 ---
 title: Skapa en godkännandeprocess i ett arbetsflöde
-description: Lär dig hur du skapar en godkännandeprocess i ett arbetsflöde så att logiken för målval kan granskas och godkännas innan leveransen startas.
+description: Lär dig hur du skapar en godkännandeprocess i ett arbetsflöde så att logiken för målinriktningsvalen kan granskas och godkännas innan leveransen startas.
 feature: Workflows, Approvals
 kt: 9340
 thumbnail: 338830.jpg
@@ -8,16 +8,16 @@ doc-type: feature video
 activity: use
 role: User
 level: Beginner
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
-workflow-type: tm+mt
+exl-id: 025f5f47-a554-4e28-97e0-1a3abdd9d2e4
+source-git-commit: 5a51d60b9483962690234931fe500864dd82a66f
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Skapa en godkännandeprocess i ett arbetsflöde
 
-Lär dig hur du skapar en godkännandeprocess i ett arbetsflöde så att logiken för målval kan granskas och godkännas innan leveransen startas.
+Lär dig hur du skapar en godkännandeprocess i ett arbetsflöde så att logiken för målinriktningsvalen kan granskas och godkännas innan leveransen startas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12)
