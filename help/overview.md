@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -34,7 +34,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
    *Lär dig hur du skapar ett nytt schema och utökar ett befintligt schema.*
 
-* **[Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.htmll?lang=sv)**
+* **[Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=sv)**
 
    *Lär dig hur du importerar och exporterar Campaign- och Experience Cloud-data, vilket möjliggör kommunikation mellan de två lösningarna.*
 

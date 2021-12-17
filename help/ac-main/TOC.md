@@ -7,7 +7,7 @@ breadcrumb-title: Självstudiekurser
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 92%
+ht-degree: 99%
 
 ---
 
@@ -65,15 +65,15 @@ ht-degree: 92%
 + Processhantering och automatisering{#process-management}
    + [Skapa ett arbetsflöde](/help/process-management/create-a-workflow.md)
    + [Skapa återkommande och kontinuerliga leveranser](/help/process-management/recurring-deliveries.md)
-   + Målarbetsflöden {#targeting-workflows}
+   + Arbetsflöden för målinriktning {#targeting-workflows}
       + [Skapa arbetsflöden för målinriktning](/help/process-management/create-a-targeting-workflow.md)
       + [Förfina mål genom att kombinera frågeresultat](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Förfina mål genom att exkludera frågeresultat](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + Arbetsflöden för godkännande och validering {#create-approvals-and-validation-workflows}
+   + Arbetsflöden för godkännanden och validering {#create-approvals-and-validation-workflows}
       + [Introduktion](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Hantera godkännanden](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [Konfigurera godkännanden för kampanjer](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Konfigurera godkännanden för leveranser](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Konfigurera godkännanden för kampanjer ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Konfigurera godkännanden för leveranser ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Skapa en godkännandeaktivitet i ett arbetsflöde](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Datahantering {#data-management}
    + [Använd aktiviteten att uppdatera lista](/help/process-management/use-the-update-list-activity.md)
@@ -86,7 +86,7 @@ ht-degree: 92%
 + Anslut till andra lösningar {#connect}
    + [Stordatahantering på Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Integrera med Dynamics 365](/help/connect/dynamics365-integration.md)
-   + [Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.htmll?lang=sv)
+   + [Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=sv)
 + Rapportering {#reporting}
    + [Åtkomst till inbyggda rapporter](/help/reporting/access-built-in-reports.md)
    + [Generera en beskrivande analysrapport](/help/reporting/generate-a-descriptive-analysis-report.md)
@@ -94,4 +94,4 @@ ht-degree: 92%
    + [Värmekarta för arbetsflöde](/help/monitoring/workflow-heatmap.md)
    + [Granskningsspår](/help/monitoring/audit-trail.md)
 + Administration {#administration}
-   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.htmll?lang=sv)
+   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=sv)
