@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 93%
+source-wordcount: '411'
+ht-degree: 78%
 
 ---
 
@@ -27,18 +27,17 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
+* **[Ändra datakällan](/help/data-management/change-data-source.md)**
+
+   *Lär dig hur du ändrar datakällan för en arbetsflödestabell med aktiviteten Ändra datakälla för att på ett flexibelt sätt hantera data över olika datakällor som FDA, FFDA och den lokala databasen.*
+
+* **[Grundläggande om datahantering med arbetsflöden](/help/data-management/data-management-fundamentals.md)**
+
+   *Lär dig vilka målgruppsmått och arbetsregister som är och hur Adobe Campaign hanterar data över olika datakällor.*
+
 * **[API-mellanlagringsmekanism med FFDA](/help/data-management/api-staging-mechanism.md)**
 
    *Lär dig hur API-mellanlagringsmekanismen med FDA fungerar.*
-
-* **[Skapa och utöka ett schema](/help/data-management/create-and-extend-a-schema.md)**
-
-   *Lär dig hur du skapar ett nytt schema och utökar ett befintligt schema.*
-
-* **[Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=sv)**
-
-   *Lär dig hur du importerar och exporterar Campaign- och Experience Cloud-data, vilket möjliggör kommunikation mellan de två lösningarna.*
-
 
 ## Personalens val
 
