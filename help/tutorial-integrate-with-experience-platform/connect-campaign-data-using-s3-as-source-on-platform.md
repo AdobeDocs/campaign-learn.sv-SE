@@ -10,10 +10,10 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: 880c91ab-0e36-45b4-af42-fade61915e38
-source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,8 +22,3 @@ ht-degree: 100%
 Lär dig hur du importerar data med hjälp av en källanslutning i Experience Platform för att uppdatera profildata med exporterade kampanjloggar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12)
-
-## Ytterligare resurser
-
-* [Anslut Campaign till Experience Platform som ett mål](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
-* [Skapa ett kampanjloggsschema och en datamängd i Adobe Experience Platform](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)

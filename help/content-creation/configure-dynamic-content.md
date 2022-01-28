@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: efe43a2a-4e47-4054-9e41-23d06a72fe4b
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,8 +22,3 @@ ht-degree: 100%
 Förstå de olika typerna av dynamiskt innehåll och lär dig hur du skapar och använder personaliseringsblock och villkorssatser i en leverans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12)
-
-## Ytterligare resurser
-
-* [Personalisera e-postmeddelanden med dynamiska innehållsblock](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [Personalisera e-postmeddelanden med personaliseringsfält](/help/content-creation/personalize-emails-using-personalization-fields.md)
