@@ -1,6 +1,6 @@
 ---
-title: Grundläggande om datahantering med Adobe Campaign arbetsflöden
-description: Lär dig vilka målgruppsmått och arbetsregister som är och hur Adobe Campaign hanterar data över olika datakällor.
+title: Grundläggande om datahantering med arbetsflöden i Adobe Campaign
+description: Lär dig vad målgruppsmått och arbetstabeller är och hur Adobe Campaign hanterar data över olika datakällor.
 feature: Data Management
 kt: 9505
 thumbnail: 339992.jpg
@@ -8,15 +8,16 @@ doc-type: feature video
 team: TM
 role: Admin, Developer
 level: Beginner
-source-git-commit: d64fe82304dec81ab14a2fb1a0808574c84644a1
-workflow-type: tm+mt
+exl-id: 48ea5e79-29b8-43a4-9cb4-d6dcb13e9068
+source-git-commit: 0124923f8aad93ffce48e9c40e6e25beb785e1f3
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Grundläggande om datahantering med Adobe Campaign arbetsflöden
+# Grundläggande om datahantering med arbetsflöden i Adobe Campaign
 
-Lär dig vilka målgruppsmått och arbetsregister som är och hur Adobe Campaign hanterar data över olika datakällor.
+Lär dig vad målgruppsmått och arbetstabeller är och hur Adobe Campaign hanterar data över olika datakällor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12)
