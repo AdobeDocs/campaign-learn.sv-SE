@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -29,15 +29,15 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 * **[Ändra datakällan](/help/data-management/change-data-source.md)**
 
-   *Lär dig hur du ändrar datakällan för en arbetsflödestabell med aktiviteten Ändra datakälla för att på ett flexibelt sätt hantera data över olika datakällor som FDA, FFDA och den lokala databasen.*
+   *Lär dig hur du ändrar datakällan för en arbetstabell för arbetsflöden med aktiviteten Ändra datakälla för att på ett flexibelt sätt hantera data över olika datakällor som FDA, FFDA och den lokala databasen.*
 
 * **[Grundläggande om datahantering med arbetsflöden](/help/data-management/data-management-fundamentals.md)**
 
-   *Lär dig vilka målgruppsmått och arbetsregister som är och hur Adobe Campaign hanterar data över olika datakällor.*
+   *Lär dig vad målgruppsmått och arbetstabeller är och hur Adobe Campaign hanterar data över olika datakällor.*
 
 * **[API-mellanlagringsmekanism med FFDA](/help/data-management/api-staging-mechanism.md)**
 
-   *Lär dig hur API-mellanlagringsmekanismen med FDA fungerar.*
+   *Lär dig hur API-mellanlagringsmekanismen med fullständig FDA fungerar.*
 
 ## Personalens val
 
@@ -102,4 +102,4 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 </table>
 
-Se [produktdokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=sv) om du vill ha mer information om den här funktionen.
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=sv).
