@@ -1,13 +1,13 @@
 ---
 title: E-postleveransaktivitet kontra leveransaktivitet
-description: I den här videon beskrivs hur du konfigurerar och använder en leveransmall.
+description: Den här videon beskriver hur du konfigurerar och använder en leveransmall.
 feature: Delivery Templates
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
 ht-degree: 100%
 
