@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 22338566-1ee9-4459-976e-0d67a779d2ef
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Lär dig hur du skapar och installerar ett offentligt/privat nyckelpar på en [!
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
-Se [produktdokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=sv) för mer information.
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=sv).
