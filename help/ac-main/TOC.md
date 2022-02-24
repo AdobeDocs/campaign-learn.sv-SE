@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: 7d998bc996a0123b051e7b9a5397cfd49e734eb2
-workflow-type: ht
-source-wordcount: '375'
-ht-degree: 100%
+source-git-commit: 9ba0862edca7be243e9b26d5b0b99d2b5b5900b0
+workflow-type: tm+mt
+source-wordcount: '374'
+ht-degree: 98%
 
 ---
 
@@ -86,9 +86,9 @@ ht-degree: 100%
    + [API-mellanlagringsmekanism](/help/data-management/api-staging-mechanism.md)
    + [Självstudiekurs: använd SOAP API:er](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=sv)
 + Anslut till andra lösningar {#connect}
-   + [Stordatahantering på Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
-   + [Integrera med Dynamics 365](/help/connect/dynamics365-integration.md)
    + [Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=sv)
+   + Integrera med Experience Manager {#AEM}
+   + [Integrera med Dynamics 365](/help/connect/dynamics365-integration.md)
 + Rapportering {#reporting}
    + [Åtkomst till inbyggda rapporter](/help/reporting/access-built-in-reports.md)
    + [Generera en beskrivande analysrapport](/help/reporting/generate-a-descriptive-analysis-report.md)
