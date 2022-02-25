@@ -7,7 +7,7 @@ thumbnail: 340319.jpg
 role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
-source-git-commit: 5b0a6644e9f5407726c5f389db62ab7a0921abac
+source-git-commit: 57cd2d41665653c4bd030b0c4e76d7cb93400d00
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 # Integrera med Experience Manager - översikt
 
-Lär dig hur du ansluter Adobe Campaign till Adobe Experience Manager för att hantera mallar, resurser och formulär för e-postleveranser i Experience Manager.
+Koppla upp Adobe Campaign med Adobe Experience Manager för att hantera mallar, resurser och formulär för e-postleveranser i Experience Manager.
 
-I följande video visas en översikt över kursen och vad du kan förvänta dig att lära dig.
+I följande video förklaras vad du kommer att lära dig.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12)
