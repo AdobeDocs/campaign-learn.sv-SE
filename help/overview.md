@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '475'
+ht-degree: 95%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **[Integrera med Adobe Target](/help/connect/target-integration.md)
+* **[Integrera med Adobe Target](/help/connect/target-integration.md)**
 
    *Lär dig hur ni personaliserar en leverans med dynamiskt innehåll från Adobe Target.*
 
@@ -65,7 +65,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
       <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>Skapa och utforma e-postleveranser</strong>
     </a>
-    </div> 
+    </div>
     <p>
     <em>Förstå processen med att skapa e-postleveranser och lär dig hur du utformar och anpassar e-postinnehåll.
 </em>
