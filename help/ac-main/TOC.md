@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: 4f8599d375d98195b56bbb5d99e65243dbcdca94
-workflow-type: ht
-source-wordcount: '382'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '389'
+ht-degree: 95%
 
 ---
 
@@ -86,9 +86,10 @@ ht-degree: 100%
    + [API-mellanlagringsmekanism](/help/data-management/api-staging-mechanism.md)
    + [Självstudiekurs: använd SOAP API:er](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=sv)
 + Anslut till andra lösningar {#connect}
-   + [Integrera med Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=sv)
-   + [Integrera med Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=sv)
-   + [Integrera med Dynamics 365](/help/connect/dynamics365-integration.md)
+   + [Integrera med Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=sv)
+   + [Integrera med Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=sv)
+   + [Integrera med Adobe Target](/help/connect/target-integration.md)
+   + [Integrera med Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Rapportering {#reporting}
    + [Åtkomst till inbyggda rapporter](/help/reporting/access-built-in-reports.md)
    + [Generera en beskrivande analysrapport](/help/reporting/generate-a-descriptive-analysis-report.md)

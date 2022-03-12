@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,17 +27,17 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **[Integrera med Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=sv)**
+* **[Integrera med Adobe Target](/help/connect/target-integration.md)
+
+   *Lär dig hur ni personaliserar en leverans med dynamiskt innehåll från Adobe Target.*
+
+* **[Integrera med Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=sv)**
 
    *Lär dig hur du ansluter Adobe Campaign till Adobe Experience Manager för att hantera mallar, resurser och formulär för e-postleveranser i Experience Manager.*
 
 * **[Ändra datakällan](/help/data-management/change-data-source.md)**
 
    *Lär dig hur du ändrar datakällan för en arbetstabell för arbetsflöden med aktiviteten Ändra datakälla för att på ett flexibelt sätt hantera data över olika datakällor som FDA, FFDA och den lokala databasen.*
-
-* **[Grundläggande om datahantering med arbetsflöden](/help/data-management/data-management-fundamentals.md)**
-
-   *Lär dig vad målgruppsmått och arbetstabeller är och hur Adobe Campaign hanterar data över olika datakällor.*
 
 
 ## Personalens val
@@ -97,10 +97,36 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     </a>
     </div>
     <p>
-    <em>Lär dig hur du skapar en descriptive analysis report från ett arbetsflöde.</em>
+    <em>Lär dig hur du skapar en beskrivande analysrapport från ett arbetsflöde.</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="Grundläggande om datahantering med arbetsflöden" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>Grundläggande om datahantering med arbetsflöden</strong>
+    </a>
+    </div>
+    <p>
+    <em>Lär dig vad målgruppsmått och arbetstabeller är och hur Adobe Campaign hanterar data över olika datakällor.</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="API-mellanlagringsmekanism med FFDA" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>API-mellanlagringsmekanism med FFDA</strong>
+    </a>
+    </div>
+    <p>
+    <em>Lär dig hur API-mellanlagringsmekanismen med fullständig FDA fungerar.</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=sv).
