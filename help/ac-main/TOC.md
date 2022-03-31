@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '392'
 ht-degree: 95%
 
 ---
@@ -25,7 +25,8 @@ ht-degree: 95%
    + [Skapa händelseaktiverade kampanjer](/help/get-started/create-event-triggered-campaigns.md)
 + Profilhantering {#profile-management}
    + [Skapa och hantera profiler](/help/profile-management/create-and-manage-profiles.md)
-   + [Målprofiler i ett arbetsflöde](/help/profile-management/target-profiles-in-a-workflow.md)
+   + [Importera profiler](/help/profile-management/import-profiles.md)
+   + [Rikta in dig mot profiler i ett arbetsflöde](/help/profile-management/target-profiles-in-a-workflow.md)
 + Kampanjorkestrering {#campaign-orchestration}
    + [Kör en kampanj](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Introduktion till kampanjer i och över flera kanaler](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
@@ -66,7 +67,7 @@ ht-degree: 95%
    + [Skapa ett arbetsflöde](/help/process-management/create-a-workflow.md)
    + [Skapa återkommande och kontinuerliga leveranser](/help/process-management/recurring-deliveries.md)
    + Arbetsflöden för målinriktning {#targeting-workflows}
-      + [Skapa arbetsflöden för målinriktning](/help/process-management/create-a-targeting-workflow.md)
+      + [Skapa ett målinriktat arbetsflöde](/help/process-management/create-a-targeting-workflow.md)
       + [Förfina mål genom att kombinera frågeresultat](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Förfina mål genom att exkludera frågeresultat](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Arbetsflöden för godkännanden och validering {#create-approvals-and-validation-workflows}
