@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 * **[Integrera med Adobe Target](/help/connect/target-integration.md)**
 
-   *Lär dig hur ni personaliserar en leverans med dynamiskt innehåll från Adobe Target.*
+   *Läs mer om hur en leverans kan anpassas med dynamiskt innehåll från Adobe Target.*
 
 * **[Integrera med Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=sv)**
 
@@ -97,7 +97,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     </a>
     </div>
     <p>
-    <em>Lär dig hur du skapar en beskrivande analysrapport från ett arbetsflöde.</em>
+    <em>Läs om hur du skapar en beskrivande analysrapport från ett arbetsflöde.</em>
     <p>
   </td>
   <td>
@@ -110,7 +110,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     </a>
     </div>
     <p>
-    <em>Lär dig vad målgruppsmått och arbetstabeller är och hur Adobe Campaign hanterar data över olika datakällor.</em>
+    <em>Läs om vad målgruppsmått och arbetstabeller är och hur Adobe Campaign hanterar data över olika datakällor.</em>
     <p>
   </td>
   <td>
@@ -123,7 +123,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     </a>
     </div>
     <p>
-    <em>Lär dig hur API-mellanlagringsmekanismen med fullständig FDA fungerar.</em>
+    <em>Läs om hur API-mellanlagringsmekanismen med fullständig FDA fungerar.</em>
     <p>
   </td>
 </tr>
