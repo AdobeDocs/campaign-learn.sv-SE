@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 100%
+source-wordcount: '337'
+ht-degree: 95%
 
 ---
 
@@ -24,8 +24,8 @@ Lär dig hur du felsöker Kontrollpanelen.
 
 ### Symptom: Det går inte att logga in på Experience Cloud
 
-**Gör så här:**
-Användaren måste hitta sitt IMS-organisations-ID (xxx). Administratören måste lägga till användaren i produktprofilen &quot;Campaign-xxx-Admins&quot; för varje instans som denne vill hantera. Om användaren är en administratör för alla instanser kan denne fortfarande behöva lägga till sig själv som användare.
+**Så här gör du:**
+Användaren måste hitta organisationens ID (xxx). Administratören måste lägga till användaren i produktprofilen &quot;Campaign-xxx-Admins&quot; för varje instans som denne vill hantera. Om användaren är en administratör för alla instanser kan denne fortfarande behöva lägga till sig själv som användare.
 
 ### Symptom: Länkar i Experience Cloud Home för åtkomst till [!UICONTROL Kontrollpanelen] visas inte för en användare
 
@@ -47,7 +47,7 @@ Administratören måste lägga till användaren i Produktprofil _Campaign-xxx-Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Kontrollera ett IMS-organisations-ID (00:26 min)*
+*Kontrollera organisationens ID (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 

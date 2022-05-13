@@ -1,22 +1,23 @@
 ---
-title: Konfigurera återkommande och kontinuerliga e-postkampanjer
+title: Skapa återkommande och kontinuerliga e-postleveranser
 description: Lär dig hur du ställer in en återkommande och kontinuerlig leverans och förstå skillnaderna mellan de två metoderna.
 feature: Workflows
 kt: 7982
+thumbnail: 342637.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 100%
+source-wordcount: '232'
+ht-degree: 94%
 
 ---
 
-# Konfigurera återkommande och kontinuerliga e-postkampanjer
+# Skapa återkommande och kontinuerliga e-postleveranser
 
 I den här självstudiekursen beskrivs hur du ställer in en återkommande och kontinuerlig leverans och skillnaderna mellan de två metoderna.
 
@@ -38,10 +39,10 @@ De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller
 
 Videon förklarar hur du konfigurerar en återkommande leverans och en schemalagd aktivitet.
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12)
 
 ## Så ställer du in en kontinuerlig leverans {#how-to-set-up-a-continuous-delivery}
 
 Den här videon visar hur du konfigurerar en kontinuerlig leverans med en stegvis frågeställning.
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12)
