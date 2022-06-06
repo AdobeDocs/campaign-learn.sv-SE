@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: dbdb6d0a4d09dd95ac1776e783bfd77cdc313f29
+source-git-commit: af1d6c836b2609c5abe2f82fd32eb7352d512543
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 97%
+source-wordcount: '393'
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,6 @@ ht-degree: 97%
       + [Utforma e-postmeddelanden för levererbarhet](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
    + SMS {#sms}
-      + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/configure-sms-account/overview.html)
       + [Skapa en SMS-leverans](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Installera den mobila appkanalen](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -83,12 +82,13 @@ ht-degree: 97%
    + [Använd aktiviteten att uppdatera lista](/help/process-management/use-the-update-list-activity.md)
    + [Konfigurera berikande aktiviteter](/help/process-management/enrichment-activity.md)
    + [Skapa och utöka ett schema](/help/data-management/create-and-extend-a-schema.md)
+   + [Importera profiler](/help/data-management/import-profiles.md)
    + [Datareplikering](/help/data-management/data-replication.md)
    + [API-mellanlagringsmekanism](/help/data-management/api-staging-mechanism.md)
    + [Självstudiekurs: använd SOAP API:er](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=sv)
 + Anslut till andra lösningar {#connect}
    + [Integrera med Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=sv)
-   + [Integrera med Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Integrera med Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=sv)
    + [Integrera med Adobe Target](/help/connect/target-integration.md)
    + [Integrera med Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Rapportering {#reporting}
