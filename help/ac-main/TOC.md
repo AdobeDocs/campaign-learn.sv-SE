@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+source-git-commit: ce2f58028cb82327588fda9c76ff9fdbbd32fc4f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 97%
       + [Utforma e-postmeddelanden för levererbarhet](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
    + SMS {#sms}
+      + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [Skapa en SMS-leverans](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Installera den mobila appkanalen](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -88,7 +89,7 @@ ht-degree: 97%
    + [Självstudiekurs: använd SOAP API:er](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=sv)
 + Anslut till andra lösningar {#connect}
    + [Integrera med Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=sv)
-   + [Integrera med Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=sv)
+   + [Integrera med Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
    + [Integrera med Adobe Target](/help/connect/target-integration.md)
    + [Integrera med Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Rapportering {#reporting}
