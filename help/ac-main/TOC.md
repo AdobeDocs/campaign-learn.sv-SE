@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: ce2f58028cb82327588fda9c76ff9fdbbd32fc4f
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -47,7 +47,6 @@ ht-degree: 0%
       + [Använda kontrollgrupper](/help/send-messages/email/use-control-groups.md)
       + [Felsök e-postleveransproblem](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Utforma e-postmeddelanden för levererbarhet](/help/send-messages/email/design-emails-for-deliverability.md)
-      + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
    + SMS {#sms}
       + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [Skapa en SMS-leverans](/help/send-messages/mobile/create-an-sms-delivery.md)
@@ -102,3 +101,4 @@ ht-degree: 0%
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
    + [Maximera avkastningen på e-postmarknadsföringen och hitta de bästa sätten att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)
+   + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)

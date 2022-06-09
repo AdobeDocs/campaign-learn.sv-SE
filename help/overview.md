@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 75%
 
 ---
 
@@ -27,18 +27,20 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **[Integrera med Adobe Target](/help/connect/target-integration.md)**
+* **[Introduktion till SMS](/help/tutorial-sms/introduction-to-sms.md)**:
+   *Läs om hur SMS fungerar och hur Adobe Campaign skickar SMS*
 
-   *Läs mer om hur en leverans kan anpassas med dynamiskt innehåll från Adobe Target.*
+* **[Konfigurera ett SMS-konto för en vanlig SMPP-leverantör](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-* **[Integrera med Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=sv)**
+   *Lär dig hur du anpassar SMS-anslutningen till din SMPP-leverantör. Finjustera dina SMS-inställningar för att hantera anslutningsbegränsningar, ange maximal genomströmning, sändningsfönstret och kryptering med TLS.*
 
-   *Lär dig hur du ansluter Adobe Campaign till Adobe Experience Manager för att hantera mallar, resurser och formulär för e-postleveranser i Experience Manager.*
+* **[Anpassa SMS-anslutningen till SMPP-leverantören](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-* **[Ändra datakällan](/help/data-management/change-data-source.md)**
+   *Lär dig hur du finjusterar dina SMS-inställningar för att hantera anslutningsbegränsningar, ange maximal genomströmning, sändningsfönstret och kryptering med TLS.*
 
-   *Lär dig hur du ändrar datakällan för en arbetstabell för arbetsflöden med aktiviteten Ändra datakälla för att på ett flexibelt sätt hantera data över olika datakällor som FDA, FFDA och den lokala databasen.*
+* **[Maximera avkastningen på e-postmarknadsföringen och lär dig de bästa sätten att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)**
 
+   *Lär dig hur du maximerar avkastningen på e-postmarknadsföring och lär dig de bästa sätten att återengagera prenumeranter. Upptäck strategierna för att förbättra era abonnenters engagemang och förstå hur väl era e-postkampanjer fungerar i stort.*
 
 ## Personalens val
 
