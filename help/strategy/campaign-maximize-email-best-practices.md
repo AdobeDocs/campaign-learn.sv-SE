@@ -1,11 +1,12 @@
 ---
-title: Maximera avkastningen på e-postmarknadsföringen och lär dig de bästa sätten att återengagera prenumeranter
-description: 'Lär dig hur du maximerar avkastningen på e-postmarknadsföring och lär dig de bästa sätten att återengagera prenumeranter. Upptäck strategierna för att förbättra era abonnenters engagemang och förstå hur väl era e-postkampanjer fungerar i stort. '
+title: Maximera e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter
+description: Lär dig hur du maximerar e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter. Upptäck strategierna för att förbättra dina prenumeranters engagemang och förstå den övergripande framgången för dina e-postkampanjer.
 solution: Campaign
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
+source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
 workflow-type: tm+mt
-source-wordcount: '1453'
-ht-degree: 0%
+source-wordcount: '1471'
+ht-degree: 2%
 
 ---
 
@@ -135,3 +136,5 @@ Dela upp den här processen i två fokusområden: a) skicka e-postmönster och b
 * **Testa och lära** - en bra testplan är viktig för att säkerställa att dina insatser får önskad effekt. Lär dig vad som fungerar och vad som inte fungerar och iterera därefter.
 
 Om du vill se en sammanfattning av denna artikel och en live demo av hur ni implementerar strategier för återengagemang kan du titta på vår [webbinarium](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+
+Läs mer om strategi och tankeledarskap på [Nöjda kunder](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) nav.
