@@ -5,9 +5,9 @@ user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
 source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '417'
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 0%
       + [Felsök e-postleveransproblem](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Utforma e-postmeddelanden för levererbarhet](/help/send-messages/email/design-emails-for-deliverability.md)
    + SMS {#sms}
-      + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
+      + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=sv)
       + [Skapa en SMS-leverans](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Installera den mobila appkanalen](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -88,7 +88,7 @@ ht-degree: 0%
    + [Självstudiekurs: använd SOAP API:er](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=sv)
 + Anslut till andra lösningar {#connect}
    + [Integrera med Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=sv)
-   + [Integrera med Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Integrera med Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=sv)
    + [Integrera med Adobe Target](/help/connect/target-integration.md)
    + [Integrera med Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Rapportering {#reporting}
@@ -100,5 +100,5 @@ ht-degree: 0%
 + Administration {#administration}
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
-   + [Maximera avkastningen på e-postmarknadsföringen och hitta de bästa sätten att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
+   + [Maximera e-postavkastning och bästa praxis för att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)
+   + [Användarhandbok om bästa praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
