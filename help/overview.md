@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '510'
+ht-degree: 100%
 
 ---
 
@@ -29,19 +29,19 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 * **[Introduktion till SMS](/help/tutorial-sms/introduction-to-sms.md)**
 
-   *Läs om hur SMS fungerar och hur Adobe Campaign skickar SMS*
+   *Lär dig hur SMS fungerar och hur Adobe Campaign skickar SMS*
 
 * **[Konfigurera ett SMS-konto för en vanlig SMPP-leverantör](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *Lär dig hur du anpassar SMS-anslutningen till din SMPP-leverantör. Finjustera dina SMS-inställningar för att hantera anslutningsbegränsningar, ange maximal genomströmning, sändningsfönstret och kryptering med TLS.*
+   *Lär dig hur du anpassar SMS-anslutningen till SMPP-leverantören. Finjustera SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönstret och kryptering med TLS.*
 
 * **[Anpassa SMS-anslutningen till SMPP-leverantören](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-   *Lär dig hur du finjusterar dina SMS-inställningar för att hantera anslutningsbegränsningar, ange maximal genomströmning, sändningsfönstret och kryptering med TLS.*
+   *Lär dig hur du finjusterar SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönstret och kryptering med TLS.*
 
-* **[Maximera avkastningen på e-postmarknadsföringen och lär dig de bästa sätten att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)**
+* **[Maximera e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)**
 
-   *Lär dig hur du maximerar avkastningen på e-postmarknadsföring och lär dig de bästa sätten att återengagera prenumeranter. Upptäck strategierna för att förbättra era abonnenters engagemang och förstå hur väl era e-postkampanjer fungerar i stort.*
+   *Lär dig hur du maximerar e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter. Upptäck strategierna för att förbättra dina prenumeranters engagemang och förstå den övergripande framgången för dina e-postkampanjer.*
 
 ## Personalens val
 
