@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: ht
-source-wordcount: '510'
-ht-degree: 100%
+source-git-commit: 9e57d61a520a3f07f41c8367817d9467de3e7570
+workflow-type: tm+mt
+source-wordcount: '483'
+ht-degree: 94%
 
 ---
 
@@ -27,6 +27,14 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
+* **[Bildskärmens genomströmning och fördröjning](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *Lär dig hur ni övervakar leveransflöden och fördröjningar för transaktionsmeddelanden i er kampanjinstans.*
+
+* **[Introduktion till SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=sv)**
+
+   *Lär dig hur SMS fungerar och hur Adobe Campaign skickar SMS*
+
 * **[Introduktion till SMS](/help/tutorial-sms/introduction-to-sms.md)**
 
    *Lär dig hur SMS fungerar och hur Adobe Campaign skickar SMS*
@@ -34,14 +42,6 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 * **[Konfigurera ett SMS-konto för en vanlig SMPP-leverantör](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
    *Lär dig hur du anpassar SMS-anslutningen till SMPP-leverantören. Finjustera SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönstret och kryptering med TLS.*
-
-* **[Anpassa SMS-anslutningen till SMPP-leverantören](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *Lär dig hur du finjusterar SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönstret och kryptering med TLS.*
-
-* **[Maximera e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)**
-
-   *Lär dig hur du maximerar e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter. Upptäck strategierna för att förbättra dina prenumeranters engagemang och förstå den övergripande framgången för dina e-postkampanjer.*
 
 ## Personalens val
 
