@@ -3,7 +3,7 @@ title: Maximera e-postavkastningen och lär dig bästa praxis för att återenga
 description: Lär dig hur du maximerar e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter. Upptäck strategierna för att förbättra dina prenumeranters engagemang och förstå den övergripande framgången för dina e-postkampanjer.
 solution: Campaign
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
+source-git-commit: f52e9f8cdb630c71af5e0a8c048c91a1db6b7d7b
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 2%
@@ -137,4 +137,4 @@ Dela upp den här processen i två fokusområden: a) skicka e-postmönster och b
 
 Om du vill se en sammanfattning av denna artikel och en live demo av hur ni implementerar strategier för återengagemang kan du titta på vår [webbinarium](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Läs mer om strategi och tankeledarskap på [Nöjda kunder](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) nav.
+Läs mer om strategi och tankeledarskap på [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) nav.
