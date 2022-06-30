@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 9e57d61a520a3f07f41c8367817d9467de3e7570
+source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 94%
+source-wordcount: '505'
+ht-degree: 86%
 
 ---
 
@@ -27,13 +27,14 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **[Bildskärmens genomströmning och fördröjning](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+* **[Kontrollpanelen - Monitor-arbetsflöden](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+
+   *Lär dig hur du övervakar arbetsflödenas tillfälliga lagringsanvändning och hur du konfigurerar arbetsflödesinställningar för att undvika problem med databaser eller arbetsflöden i instansen.*
+
+* **[Kontrollpanelen - Bildskärmens genomströmning och fördröjning](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
 
    *Lär dig hur ni övervakar leveransflöden och fördröjningar för transaktionsmeddelanden i er kampanjinstans.*
-
-* **[Introduktion till SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=sv)**
-
-   *Lär dig hur SMS fungerar och hur Adobe Campaign skickar SMS*
 
 * **[Introduktion till SMS](/help/tutorial-sms/introduction-to-sms.md)**
 
