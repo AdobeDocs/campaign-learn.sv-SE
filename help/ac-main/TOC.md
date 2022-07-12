@@ -5,9 +5,9 @@ user-guide-title: 'Självstudiekurser om Adobe Campaign '
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
 source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '419'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -98,7 +98,7 @@ ht-degree: 98%
    + [Värmekarta för arbetsflöde](/help/monitoring/workflow-heatmap.md)
    + [Granskningsspår](/help/monitoring/audit-trail.md)
 + Administration {#administration}
-   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
+   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=sv){target=&quot;_blank&quot;}
 + Strategi och tankeledarskap{#strategy}
    + [Maximera e-postavkastning och bästa praxis för att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Användarhandbok om bästa praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
