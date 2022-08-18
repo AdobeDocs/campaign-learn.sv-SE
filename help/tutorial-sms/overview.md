@@ -3,10 +3,10 @@ title: Teknisk självstudiekurs – konfigurera SMS för Adobe Campaign
 description: Lär dig hur du konfigurerar ett SMS-konto för SMTP-leverantörer och hur du analyserar och felsöker konfigurationen.
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+source-git-commit: 1fc6cbddbfa5e591704d59c494ce7d2f107a444f
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 87%
 
 ---
 
@@ -29,8 +29,8 @@ Följande ämnen behandlas:
 
    *Lär dig hur du finjusterar SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönstret och kryptering med TLS.*
 
-* **Analys och felsökning**
-Kommer snart
+* **[SMPP-protokollets djupdykning och felsökning]**(help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
+   *Lär dig hur SMPP-anslutningar upprättas och hur SMPP utbyter data via PDU:er. Lär dig hur du felsöker anslutningar.*
 
 >[!NOTE]
 >
