@@ -4,9 +4,9 @@ description: Lär dig hur du konfigurerar ett SMS-konto för SMTP-leverantörer 
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 3d1734fab0deebd611717e13c813c89ead880e5a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '211'
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ Följande ämnen behandlas:
 
    *Lär dig hur du finjusterar SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönstret och kryptering med TLS.*
 
-* **[SMPP-protokollets djupdykning och felsökning](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+* **[Djupdykning och felsökning för SMPP-protokollet](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
 
-   *Lär dig hur SMPP-anslutningar upprättas och hur SMPP utbyter data via PDU:er. Lär dig hur du felsöker anslutningar.*
+   *Lär dig hur SMPP-anslutningar upprättas och hur SMPP utbyter data via PDU:er. Förstå hur du felsöker anslutningar.*
 
 >[!NOTE]
 >
