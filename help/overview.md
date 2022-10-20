@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
+source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
 workflow-type: ht
-source-wordcount: '464'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,8 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 >
 >Se [produktdokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=sv) för mer information om övergången från Classic v7 till V8.
 
+<div id="whats-new-section">
+
 ## Nyheter
 
 * **[Djupdykning och felsökning för SMPP-protokollet](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=sv)**
@@ -39,6 +41,17 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 * **[Kontrollpanelen – övervaka genomflöden och fördröjning](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=sv){target=&quot;_blank&quot;}**
 
    *Läs mer om hur du övervakar genomflöden för leveranser och fördröjningar för transaktionsmeddelanden i kampanjinstansen.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Personalens val
 
@@ -128,5 +141,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
   </td>
 </tr>
 </table>
+
+</div>
 
 Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=sv).
