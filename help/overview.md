@@ -6,15 +6,14 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-recommendations: noDisplay, noCatalog
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 99%
 
 ---
 
-# Självstudiekurser om Adobe Campaign V8 – översikt
+# Adobe Campaign V8 självstudiekurser
 
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign V8.
 
@@ -53,7 +52,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 <div id="staff-picks-section">
 
-## Personalens val
+## Personalval
 
 <table>
 <tr>
