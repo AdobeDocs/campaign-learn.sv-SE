@@ -2,8 +2,9 @@
 title: Teknisk självstudiekurs – konfigurera SMS för Adobe Campaign
 description: Lär dig hur du konfigurerar ett SMS-konto för SMTP-leverantörer och hur du analyserar och felsöker konfigurationen.
 feature: SMS
+thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: 3d1734fab0deebd611717e13c813c89ead880e5a
+source-git-commit: 285afc4062984320423816e8364f863973834f71
 workflow-type: ht
 source-wordcount: '211'
 ht-degree: 100%
