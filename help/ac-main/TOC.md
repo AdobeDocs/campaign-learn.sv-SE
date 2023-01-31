@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Självstudiekurser om Adobe Campaign
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: e866b1e1130a30d43d4ef59e17f8c58c1b5d6a81
+source-git-commit: 89b99c200f6169194e9607f4a0f335abc7d81ee0
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 98%
+source-wordcount: '431'
+ht-degree: 97%
 
 ---
 
@@ -100,6 +100,6 @@ ht-degree: 98%
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=sv){target="_blank"}
    + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
-   + [10 Best Practices to Adobe Campaign Success for Marketers](/help/strategy-and-thought-leadrship/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [Tio bästa sätten för marknadsförare att lyckas med Adobe Campaign](/help/strategy-and-thought-leadrship/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [Maximera e-postavkastning och bästa praxis för att återengagera prenumeranter](/help/strategy-and-thought-leadrship/campaign-maximize-email-best-practices.md)
    + [Användarhandbok om bästa praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
