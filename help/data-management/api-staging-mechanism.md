@@ -9,9 +9,9 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: f61a1d00-694a-4727-8a24-959cb0258046
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
-source-wordcount: '78'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Lär dig hur API-mellanlagringsmekanismen med fullständig FDA fungerar. Förstå varför mellanlagring används, huvudprinciperna för mellanlagring i Adobe Campaign och hur du aktiverar mellanlagringsmekanismen för en anpassad tabell.
 
->[!VIDEO](https://video.tv.adobe.com/v/339276?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/339276?quality=12&learn=on)
