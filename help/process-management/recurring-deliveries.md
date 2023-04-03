@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 94%
@@ -39,10 +39,10 @@ De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller
 
 Videon förklarar hur du konfigurerar en återkommande leverans och en schemalagd aktivitet.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on)
 
 ## Så ställer du in en kontinuerlig leverans {#how-to-set-up-a-continuous-delivery}
 
 Den här videon visar hur du konfigurerar en kontinuerlig leverans med en stegvis frågeställning.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on)
