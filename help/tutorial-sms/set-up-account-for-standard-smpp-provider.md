@@ -6,9 +6,9 @@ thumbnail: 343607.jpg
 kt: 9742
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: c057d743-ca6a-44c7-a93a-d6652dba8e7b
-source-git-commit: 285afc4062984320423816e8364f863973834f71
-workflow-type: tm+mt
-source-wordcount: '115'
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Lär dig hur du skapar ett SMPP-konto hos Adobe Campaign, hur du analyserar SMS-leveransresultat och anpassar SR-bearbetningen efter SMPP-leverantörens specifikationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on)
 
 Du hittar mer information om SMPP-protokollet, information om inställningar för externa konton och felsökning av de vanligaste problemen i [Protokoll och inställningar för SMS-anslutning](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=sv#sending-messages).
