@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Självstudiekurser om Adobe Campaign
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '434'
 ht-degree: 97%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 97%
       + [Skapa ett flerspråkigt nyhetsbrev med villkorsstyrt innehåll](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Definiera interaktivt e-postinnehåll med AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Konfigurera landningssidor](/help/content-creation/configure-landingpages.md)
+   + [Skapa en undersökning](/help/content-creation/create-a-survey.md)
 + Skicka meddelanden{#sending-messages}
    + E-post {#email}
       + [Skicka och validera bevis på e-postleverans](/help/send-messages/email/send-and-validate-proofs.md)
