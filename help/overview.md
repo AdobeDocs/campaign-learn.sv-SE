@@ -7,8 +7,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: ht
-source-wordcount: '463'
+workflow-type: tm+mt
+source-wordcount: '459'
 ht-degree: 100%
 
 ---
@@ -33,13 +33,13 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
    *Lär dig hur SMPP-anslutningar upprättas och hur SMPP utbyter data via PDU:er. Förstå hur du felsöker anslutningar.*
 
-* **[Kontrollpanelen – övervaka arbetsflöden](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=sv){target=&quot;_blank&quot;}**
+* **[Kontrollpanelen – övervaka arbetsflöden](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=sv){target="_blank"}**
 
    *Läs mer om hur du övervakar arbetsflödenas tillfälliga lagringsanvändning och hur du konfigurerar arbetsflödesinställningar för att undvika problem med databaser eller arbetsflöden i instansen.*
 
-* **[Kontrollpanelen – övervaka genomflöden och fördröjning](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=sv){target=&quot;_blank&quot;}**
+* **[Kontrollpanelen – övervaka genomflöden och fördröjning](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=sv){target="_blank"}**
 
-   *Läs mer om hur du övervakar genomflöden för leveranser och fördröjningar för transaktionsmeddelanden i kampanjinstansen.*
+   *Läs mer om hur du övervakar genomflöden för leveranser och fördröjningar av transaktionsmeddelanden i kampanjinstansen.*
 
 </div>
 
