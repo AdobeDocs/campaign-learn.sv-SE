@@ -1,5 +1,5 @@
 ---
-title: Skapa en undersökning
+title: Skapa en enkät
 description: Lär dig hur du skapar en enkät i Adobe Campaign Classic.
 feature: Surveys
 role: User
@@ -12,11 +12,11 @@ exl-id: 13813651-0a6f-40b6-9ea3-61f752715ea0
 source-git-commit: 9b70faae5d3375959579fc42e296804b62af4542
 workflow-type: tm+mt
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Skapa en undersökning
+# Skapa en enkät
 
 Lär dig hur du skapar en enkät i Adobe Campaign Classic.
 

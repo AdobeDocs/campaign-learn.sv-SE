@@ -41,7 +41,7 @@ ht-degree: 97%
       + [Skapa ett flerspråkigt nyhetsbrev med villkorsstyrt innehåll](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Definiera interaktivt e-postinnehåll med AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Konfigurera landningssidor](/help/content-creation/configure-landingpages.md)
-   + [Skapa en undersökning](/help/content-creation/create-a-survey.md)
+   + [Skapa en enkät](/help/content-creation/create-a-survey.md)
 + Skicka meddelanden{#sending-messages}
    + E-post {#email}
       + [Skicka och validera bevis på e-postleverans](/help/send-messages/email/send-and-validate-proofs.md)
