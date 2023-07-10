@@ -2,7 +2,7 @@
 title: Skapa återkommande och kontinuerliga e-postleveranser
 description: Lär dig hur du ställer in en återkommande och kontinuerlig leverans och förstå skillnaderna mellan de två metoderna.
 feature: Workflows
-kt: 7982
+jira: KT-7982
 thumbnail: 342637.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 94%
@@ -27,7 +27,7 @@ De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller
 
 * Med **kontinuerlig leverans** kan du lägga till nya mottagare till en befintlig leverans och undvika att du måste skapa en leverans varje gång en ny mottagare läggs till. Du kan uppdatera den kreativa informationen direkt i kampanjarbetsflödet och uppdatera mallen i leveransmallens resursmapp.
 
-   En kontinuerlig leverans skapar en enskild leverans och leveransloggar (broadLog) och spårningsloggar, som refererar till denna leverans, läggs till varje gång den körs.
+  En kontinuerlig leverans skapar en enskild leverans och leveransloggar (broadLog) och spårningsloggar, som refererar till denna leverans, läggs till varje gång den körs.
 
 ![Kontinuerlig leverans](/help/assets/delivery_continuous.jpg)
 

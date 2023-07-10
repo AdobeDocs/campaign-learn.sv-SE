@@ -2,7 +2,7 @@
 title: Skapa ett exportarbetsflöde (del 1) – hitta datumet för senaste ändring för en lista över mottagare
 description: I den här första delen av självstudiekursen Skapa ett exportarbetsflöde, får du lära dig hur du skapar ett arbetsflöde som hittar datumet för senaste ändring för en lista med mottagare som skapats från ett Experience Platform-segment.
 feature: Data Import/Export, Workflows
-kt: 8162
+jira: KT-8162
 thumbnail: 336387.jpg
 doc-type: feature video
 activity: setup
@@ -10,7 +10,7 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
