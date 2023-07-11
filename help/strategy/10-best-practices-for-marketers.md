@@ -2,13 +2,14 @@
 title: De tio bästa metoderna för att marknadsförare ska lyckas med Adobe Campaign
 description: Lär dig de tio bästa metoderna för att hjälpa yrkesverksamma inom Adobe Campaign att låsa upp och påskynda den digitala konsumentomvandlingen och få en bättre upplevelse för sina kunder.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11778
 last-substantial-update: 2023-01-30T00:00:00Z
 exl-id: a4191cfb-991a-4cd5-97b5-c24c6c93566b
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
+source-git-commit: 2cf7b12ea62026186255b08c4035d0f4bdac103d
+workflow-type: tm+mt
 source-wordcount: '1279'
 ht-degree: 100%
 
