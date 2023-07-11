@@ -1,8 +1,11 @@
 ---
 user-guide-title: Konfigurera SMS för Adobe Campaign
 user-guide-description: Lär dig hur du konfigurerar ett SMS-konto för SMPP-leverantörer, hur Adobe Campaign hanterar SMS och hur du analyserar och felsöker konfigurationen. 
+Role: Admin, Developer
+Level: Advanced
+Feature: SMS
 breadcrumb-title: Konfigurera SMS
-source-git-commit: 2c285a9e5f2b5e48adbb5272f0c95bcd7d2ad052
+source-git-commit: 78ad0bc4c42706a63e1f508e0570414991fd2e85
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
