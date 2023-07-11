@@ -1,7 +1,7 @@
 ---
 title: Skapa ett exportarbetsflöde (del 2) – extrahera, formatera och spara data till ett externt konto
 description: I den andra delen av självstudiekursen Skapa ett exportarbetsflöde får du lära dig hur du formaterar data för export och hur du sparar data till ett externt konto.
-feature: Data Import/Export, Workflows
+feature: Data Management, Workflows
 jira: KT-8160
 thumbnail: 336391.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
+source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
