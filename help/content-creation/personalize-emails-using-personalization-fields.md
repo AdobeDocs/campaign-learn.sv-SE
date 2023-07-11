@@ -1,7 +1,7 @@
 ---
 title: Personalisera e-postmeddelanden med personaliseringsfält
 description: Lär dig hur du lägger till ett personaliseringsfält på ämnesraden och i innehållet i en e-postleverans.
-feature: Dynamic Content
+feature: Personalization, Email
 jira: KT-7942
 thumbnail: 24925.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
+source-git-commit: 81f3ae29afbd3d07eaf959798370702ef91f2cd5
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
