@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
-source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
-workflow-type: ht
-source-wordcount: '92'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 97%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 I den andra delen av självstudiekursen Skapa ett exportarbetsflöde får du lära dig hur du formaterar data för export och hur du sparar data till ett externt konto.
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on){trancript=true}
 
 ## Resurser
 

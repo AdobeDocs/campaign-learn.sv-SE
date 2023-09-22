@@ -7,10 +7,10 @@ thumbnail: 336538.jpg
 role: Admin, Developer
 level: Experienced
 exl-id: 6bd2f88a-9da4-43ea-8b18-b51a4024ea2a
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '50'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '52'
+ht-degree: 96%
 
 ---
 
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Lär dig hur du skapar en nyhetsbrevtjänst och prenumererar en mottagare med hjälp av SOAP API-anrop.
 
->[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12&learn=on){trancript=true}
 
 Fortsätt till: [Steg 4 – skapa en innehållssammanfattning med ett arbetsflöde](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)

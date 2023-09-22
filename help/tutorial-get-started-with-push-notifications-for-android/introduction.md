@@ -10,10 +10,10 @@ role: Admin, Developer
 level: Experienced
 recommendations: noCatalog
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '317'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '319'
+ht-degree: 99%
 
 ---
 
@@ -37,9 +37,9 @@ Innan du kan börja måste du ha följande:
 
     [!DNL Mobile App channel]-paketet måste installeras på din instans i [!DNL Campaign]. Följande video förklarar hur du kontrollerar om [!DNL Mobile App channel] är installerat på din instans och hur du installerar det om så inte är fallet.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){trancript=true}
 
-## Översikt över självstudiekurser
+## Översikt över självstudiekursen
 
 Vi vill skicka ett personaliserat [!DNL push]-reklammeddelande till prenumeranterna av [!DNL Neotrip] [!DNL Android™]-mobilappen. [!DNL Neotrip]-appen är konfigurerad med [!DNL Campaign SDK] och [!DNL Mobile App channel] är aktiverad för instansen i [!DNL Campaign].
 

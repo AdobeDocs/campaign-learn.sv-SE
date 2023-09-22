@@ -12,10 +12,10 @@ level: Experienced
 hide: true
 hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '100'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 98%
 
 ---
 
@@ -27,6 +27,6 @@ För närvarande stöder endast Gmail, Outlook och Mail.ru AMP-formatet.
 
 I videon nedan förklaras hur du aktiverar och använder AMP i Adobe Campaign 
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){trancript=true}
 
 Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=sv#about-amp-for-email).
