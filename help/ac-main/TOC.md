@@ -4,7 +4,8 @@ sub-product: Campaign V8
 user-guide-title: Självstudiekurser om Adobe Campaign
 user-guide-description: Adobe Campaign låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
+auto-video-transcripts: true
+source-git-commit: c755b1608247d34490d4196f63a6ba6f73dfccf7
 workflow-type: tm+mt
 source-wordcount: '434'
 ht-degree: 97%
