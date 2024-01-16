@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Självstudiekurser om Adobe Campaign
-user-guide-description: Videofilmer och självstudiekurser för Adobe Campaign v8.
-breadcrumb-title: Campaign v8 Tutorials
+user-guide-description: Lär dig hur du använder funktionerna i Adobe Campaign V8 Client Console.
+breadcrumb-title: Klientkonsol - Tutorials
 auto-video-transcripts: true
-source-git-commit: ddcd89a61daeb2195d23d28d72e4e45b10af6938
+source-git-commit: cadb9deda9b442d1c241d432ef9ce095e57806f6
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 94%
+source-wordcount: '387'
+ht-degree: 92%
 
 ---
 
