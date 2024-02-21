@@ -6,9 +6,9 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 52c41223e6f3c155bcace3ea3427d3030ebfeb01
+source-git-commit: 1ba89be839ba4ee1440377697db7da12451758ea
 workflow-type: ht
-source-wordcount: '409'
+source-wordcount: '332'
 ht-degree: 100%
 
 ---
@@ -24,21 +24,6 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 > Campaign v8 är för närvarande bara tillgängligt som en hanterad Cloud Service och kan inte distribueras i en lokal miljö eller hybridmiljö. Automatisk migrering från en befintlig Campaign Classic v7-miljö är inte tillgänglig än.
 >
 >Se [produktdokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=sv) för mer information om övergången från Classic v7 till V8.
-
-<div id="whats-new-section">
-
-## Nyheter
-
-* **[Djupdykning och felsökning för SMPP-protokollet](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=sv)**
-  *Lär dig hur SMPP-anslutningar upprättas och hur SMPP utbyter data via PDU:er. Förstå hur du felsöker anslutningar.*
-
-* **[Kontrollpanelen – övervaka arbetsflöden](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=sv){target="_blank"}**
-  *Läs mer om hur du övervakar arbetsflödenas tillfälliga lagringsanvändning och hur du konfigurerar arbetsflödesinställningar för att undvika problem med databaser eller arbetsflöden i instansen.*
-
-* **[Kontrollpanelen – övervaka genomflöden och fördröjning](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=sv){target="_blank"}**
-  *Läs mer om hur du övervakar genomflöden för leveranser och fördröjningar av transaktionsmeddelanden i kampanjinstansen.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
