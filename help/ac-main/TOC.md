@@ -5,10 +5,10 @@ user-guide-title: Självstudiekurser om Adobe Campaign
 user-guide-description: Lär dig hur du använder funktionerna i klientkonsolen Adobe Campaign V8.
 breadcrumb-title: Klientkonsol – självstudiekurser
 auto-video-transcripts: true
-source-git-commit: cadb9deda9b442d1c241d432ef9ce095e57806f6
+source-git-commit: 096ea99b585d4430ed5c588d910e7c6614f7fc31
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 96%
+source-wordcount: '394'
+ht-degree: 95%
 
 ---
 
@@ -105,3 +105,4 @@ ht-degree: 96%
    + [Tio bästa sätten för marknadsförare att lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximera e-postavkastning och bästa praxis för att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Användarhandbok om bästa praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
++ [Adobe Campaign självstudiekurser för webbanvändargränssnitt](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
