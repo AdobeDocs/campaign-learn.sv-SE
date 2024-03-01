@@ -1,19 +1,19 @@
 ---
-title: Adobe Campaign V8 Client Console Tutorials
+title: Självstudiekurser för Adobe Campaign V8 Client Console
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna i Adobe Campaign V8 Client Console.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 162004a7d92a649600a4e6bb42e306e92b1985cf
+source-git-commit: 9e502bab7f860db031e69efa486864bc5825b159
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 74%
 
 ---
 
-# Adobe Campaign v8 Client Console Tutorials
+# Självstudiekurser för Adobe Campaign v8 Client Console
 
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna i Adobe Campaign V8 Client Console.
 
