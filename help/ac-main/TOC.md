@@ -5,17 +5,17 @@ user-guide-title: Självstudiekurser om Adobe Campaign
 user-guide-description: Lär dig hur du använder funktionerna i klientkonsolen Adobe Campaign V8.
 breadcrumb-title: Klientkonsol – självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 096ea99b585d4430ed5c588d910e7c6614f7fc31
+source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 95%
+source-wordcount: '399'
+ht-degree: 92%
 
 ---
 
 
-# Självstudiekurser om Adobe Campaign V8 {#tutorials}
+# Adobe Campaign v8 Client Console Tutorials {#tutorials}
 
-+ [Adobe Campaign](/help/overview.md)
++ [Campaign v8 Client Console Tutorials](/help/overview.md)
 + [Viktiga funktioner i Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=sv)
 + Kom igång {#getting-started}
    + [Introduktion till Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
