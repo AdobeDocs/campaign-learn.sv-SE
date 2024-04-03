@@ -5,7 +5,8 @@ sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 2dfee4f1efe870815fd7cbf9023838c1c9c367a8
+exl-id: ec352448-e40b-4d22-b566-d25783e74b63
+source-git-commit: f4fb362adce9b576e3fc815cce775c52bfcc80f3
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 74%
