@@ -6,7 +6,7 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
-source-git-commit: f4fb362adce9b576e3fc815cce775c52bfcc80f3
+source-git-commit: 5c1d1d039b331d031f33e55c1202632dab1ad2a7
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 74%
@@ -23,12 +23,12 @@ Se
 > Har du frågor? Vill du dela med dig av dina erfarenheter eller utbyta tankar med andra? Eller har du feedback på kursmaterialet för Adobe-teamet? Delta i konversationen i [Adobe Campaign Learning Community-tråden](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 > 
 > De här självstudiekurserna är inte vad du letar efter?
-> Se [Adobe Campaign självstudiekurser för webbanvändargränssnitt](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) om du vill ha vägledning om hur du använder webbgränssnittet för Campaign.
+> I [Adobe Campaign-självstudiekurserna för webbanvändargränssnittet](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) finns mer information om hur du använder webbanvändargränssnittet för Campaign.
 
 >[!NOTE]
 > Campaign v8 är för närvarande bara tillgängligt som en hanterad Cloud Service och kan inte distribueras i en lokal miljö eller hybridmiljö. Automatisk migrering från en befintlig Campaign Classic v7-miljö är inte tillgänglig än.
 >
->Se [produktdokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=sv) om du vill ha mer information om övergången från Classic v7 till V8.
+>Mer information om övergången från Classic v7 till V8 finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=sv).
 
 
 <div id="recs-overview-body-1"></div>
