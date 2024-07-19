@@ -12,8 +12,8 @@ recommendations: noCatalog
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 99%
+source-wordcount: '316'
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Innan du kan börja måste du ha följande:
 
     [!DNL Mobile App channel]-paketet måste installeras på din instans i [!DNL Campaign]. Följande video förklarar hur du kontrollerar om [!DNL Mobile App channel] är installerat på din instans och hur du installerar det om så inte är fallet.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 ## Översikt över självstudiekursen
 

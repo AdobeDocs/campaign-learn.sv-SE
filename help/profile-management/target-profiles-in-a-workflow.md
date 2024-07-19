@@ -14,7 +14,7 @@ exl-id: 19296ac3-a81a-4201-9f6e-80be2395f0bc
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 97%
 
 Förstå användningen av kampanjarbetsflöden och lär dig hur du skapar ett arbetsflöde och använder filtervillkor för att rikta in dig mot profiler i ett arbetsflöde.
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
 
 ## Nästa lektioner att titta på
 

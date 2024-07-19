@@ -13,7 +13,7 @@ exl-id: 8a4653be-ae69-4c9f-aab8-dbff886ceecd
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Den berikande aktiviteten är ett arbetsflödesobjekt som lägger till data i ar
 
 Lär dig hur du konfigurerar en berikande aktivitet baserat på information i leveransloggen.
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){transcript=true}

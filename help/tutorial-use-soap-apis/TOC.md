@@ -4,7 +4,7 @@ user-guide-description: Lär dig hur du använder Adobe Campaign Soap API:er och
 breadcrumb-title: Använd SOAP API:er
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---

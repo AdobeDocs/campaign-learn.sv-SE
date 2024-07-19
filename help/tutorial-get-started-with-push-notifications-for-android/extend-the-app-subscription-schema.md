@@ -12,16 +12,16 @@ level: Experienced
 exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 97%
+source-wordcount: '73'
+ht-degree: 65%
 
 ---
 
-# Utöka [!UICONTROL appens prenumerationschema] för att personalisera push-aviseringar
+# Utöka schemat [!UICONTROL app subscription] för att anpassa push-meddelanden
 
-Lär dig hur du utökar [!UICONTROL appens prenumerationsschema] för att kunna lagra personaliseringsvärden [!DNL Campaign] som tas emot från en mobilapp.
+Lär dig hur du utökar [!UICONTROL app subscription]-schemat så att det går att lagra personaliseringsvärden som [!DNL Campaign] tar emot från en mobilapp.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
 
 **Nästa steg**
 

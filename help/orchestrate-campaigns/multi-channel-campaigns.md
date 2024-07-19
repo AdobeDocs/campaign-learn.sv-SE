@@ -13,7 +13,7 @@ exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ I en flerkanalskampanj används flera kanaler för en enda marknadsföringskommu
 
 Lär dig hur du skapar en flerkanalskampanj med e-post, SMS och direktreklam baserat på mottagarens önskade kanal.
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}

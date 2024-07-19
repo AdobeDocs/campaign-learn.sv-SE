@@ -12,7 +12,7 @@ exl-id: 0a6e09e6-0d23-4267-ba74-39523735e83d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Arbetsflöden sker i olika sammanhang och under olika faser av kampanjhanterings
 
 I den här videon förklaras hur du skapar ett arbetsflöde i Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}

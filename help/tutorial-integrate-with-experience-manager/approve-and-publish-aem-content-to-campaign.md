@@ -13,7 +13,7 @@ exl-id: 09df20fc-b848-4cbd-aabc-8fdb1f6b22ea
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 96%
 
 Lär dig hur du skapar ett nyhetsbrev i Experience Manager och hur du godkänner och publicerar det till Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){transcript=true}

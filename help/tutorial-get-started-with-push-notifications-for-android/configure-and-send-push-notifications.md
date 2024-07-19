@@ -12,8 +12,8 @@ level: Beginner, Intermediate, Experienced
 exl-id: bef60865-9d83-46a5-ad2f-77095cb7c6a2
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 96%
+source-wordcount: '55'
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 96%
 
 Lär dig hur du konfigurerar och skickar en [!DNL push]-avisering till användare av ett Android™-program.
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
 
 **Föregående steg**
 

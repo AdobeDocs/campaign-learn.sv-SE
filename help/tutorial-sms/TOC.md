@@ -6,7 +6,7 @@ Level: Advanced
 Feature: SMS
 breadcrumb-title: Konfigurera SMS
 source-git-commit: 78ad0bc4c42706a63e1f508e0570414991fd2e85
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 

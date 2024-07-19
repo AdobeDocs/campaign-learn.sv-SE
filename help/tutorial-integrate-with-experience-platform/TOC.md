@@ -4,7 +4,7 @@ user-guide-description: Lär dig hur du importerar och exporterar Campaign- och 
 breadcrumb-title: Integrera med Experience Platform
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---

@@ -10,7 +10,7 @@ exl-id: 30d654f3-086e-4e67-b835-d6f263540618
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '22'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 90%
 
 Läs mer om hur du importerar profiler i Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/342085?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342085?quality=12&learn=on){transcript=true}

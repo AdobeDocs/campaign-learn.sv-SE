@@ -13,7 +13,7 @@ exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Personaliseringsfält används för att personalisera innehållet i levererade m
 
 Lär dig hur du lägger till ett personaliseringsfält på ämnesraden och i innehållet i en e-postleverans.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}

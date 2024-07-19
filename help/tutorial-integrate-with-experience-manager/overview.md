@@ -11,7 +11,7 @@ exl-id: 7c877275-a160-41a8-950a-756e9e932302
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Anslut Adobe Campaign med Adobe Experience Manager för att hantera mallar, resu
 
 Följande video förklarar vad du kommer att lära dig.
 
->[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on){transcript=true}

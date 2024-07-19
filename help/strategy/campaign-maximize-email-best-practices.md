@@ -1,6 +1,6 @@
 ---
-title: Maximera e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter
-description: Lär dig hur du maximerar e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter. Upptäck strategierna för att förbättra dina prenumeranters engagemang och förstå den övergripande framgången för dina e-postkampanjer.
+title: Maximera avkastningen på e-postmarknadsföringen och lär dig de bästa sätten att återengagera prenumeranter
+description: Lär dig hur du maximerar avkastningen på e-postmarknadsföring och lär dig de bästa sätten att återengagera prenumeranter. Upptäck strategierna för att förbättra era abonnenters engagemang och förstå hur väl era e-postkampanjer fungerar i stort.
 solution: Campaign
 role: User
 level: Beginner
@@ -8,8 +8,8 @@ feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
 source-git-commit: 6ff175aacef090fa81cb97243bf3ceb0bf2914b4
 workflow-type: tm+mt
-source-wordcount: '1471'
-ht-degree: 2%
+source-wordcount: '1475'
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,13 @@ I den här artikeln går vi igenom fyra strategier för att förbättra era pren
 
 ## Vad är leverans?
 
-Det kan vara förvirrande mellan leveransvillkoren och leveransvillkoren. Leverans är ett mått på framgång för e-postkampanjer. om de levereras till prenumerantens inkorg, skräppostmapp eller blockeras av Internet-leverantören. Om vi tittar på det som en ekvation är det en åtgärd att skicka ett e-postmeddelande + möjligheten att landa i inkorgen + förmågan att göra det kontinuerligt.
+Det kan vara förvirrande mellan leveransvillkoren och leveransvillkoren. Leverans är ett mått på framgång för e-postkampanjer, oavsett om de levereras till prenumerantens inkorg, skräppostmapp eller blockeras av Internet-leverantören. Om vi tittar på det som en ekvation är det en åtgärd att skicka ett e-postmeddelande + möjligheten att landa i inkorgen + förmågan att göra det kontinuerligt.
 
 Hur väl håller er organisation reda på hur väl era e-postkampanjer kan levereras och vet ni var era e-postmeddelanden hamnar?
 
 ## Skräppostfiltrering
 
-Innan ni går in i en strategi är det viktigt att vara medveten om de vanligaste skräppostfilterproblemen som kan påverka kampanjresultaten. Om du fortsätter skicka e-post till inaktiva prenumeranter som inte öppnar dina e-postmeddelanden under mer än ett år kan du få följande:
+Innan ni går in i en strategi är det viktigt att ni är medvetna om de vanligaste skräppostfilterproblemen som kan påverka kampanjresultaten. Om du fortsätter skicka e-post till inaktiva prenumeranter som inte öppnar dina e-postmeddelanden under mer än ett år kan du få följande:
 
 * Blockeringslista och tillåtelselista
 * Innehållsfilter
@@ -36,7 +36,7 @@ Innan ni går in i en strategi är det viktigt att vara medveten om de vanligast
 * Klagomål
 * Användaråtgärder
 
-## Maximera avkastningen på e-postmarknadsföringen
+## Maximera avkastningen på e-post
 
 Visste du på bara en minut på Internet att det finns över en miljon videovisningar, två miljoner sökfrågor från Google, sex miljoner visningar från Facebook och 200 miljoner mejl? Med så mycket på gång är det viktigt att se till att ditt innehåll inte försvinner i bruset. Särskilt om ni skapar en kampanj under en semestersäsong är det ännu svårare att få ut era e-postmeddelanden till presumtiva och återkommande kunder.
 
@@ -73,12 +73,12 @@ Här följer fyra huvudstrategier för att maximera avkastningen:
 
 ### 4. E-posthantering
 
-* Segmentera era prenumeranter och övervaka var de befinner sig i ert varumärkes livscykel
+* Segmentera era prenumeranter och övervaka var de befinner sig i ert varumärke
 * Använd strategier för innehållspersonalisering för att förbättra relevansen i era e-postmeddelanden
 
 ## Öka e-postengagemanget och lösa e-posttrötthet
 
-E-posttrötthet inträffar när dina prenumeranter tröttnar på att ta emot dina e-postmeddelanden. E-posttrötthet kan inträffa av flera orsaker; de kanske har varit med på listan för länge och är trötta på att höra av dig, eller så är det senaste innehållet inte längre relevant. Det är upp till dig och ditt team att ta reda på vilka kunder som drabbas av e-posttrötthet och varför. Så, vilka är skyltarna att leta efter?
+E-posttrötthet inträffar när dina prenumeranter tröttnar på att ta emot dina e-postmeddelanden. Trötthet i e-postmeddelanden kan bero på flera olika orsaker. De kanske har varit med på listan för länge och är trötta på att höra från dig eller så är det senaste innehållet inte längre relevant. Det är upp till dig och ditt team att ta reda på vilka kunder som drabbas av e-posttrötthet och varför. Så, vilka är skyltarna att leta efter?
 
 De viktigaste mätvärdena som ska övervakas är:
 
@@ -102,7 +102,7 @@ Tyvärr finns det inget bra svar på hur många e-postmeddelanden som ska skicka
 * Vilken är kundens förmåga att ta emot innehåll från ert varumärke?
 * Vilka är era kunders säsongsinställningar?
 
-### 2. Identifiera prenumerantens status
+### 2. Identifiera abonnenternas status
 
 Abonnenternas status (aktiv, annullerad eller inaktiv) beror på hur ofta du skickar deras innehåll. Därifrån kan du avgöra hur förlovad de är.
 
@@ -116,28 +116,28 @@ För användare med fördröjd och inaktiv information bör du överväga vilket
 
 ### 3. Genomföra strategier för återengagemang
 
-Dela upp den här processen i två fokusområden: a) skicka e-postmönster och b) det kreativa innehållet i själva e-postmeddelandena. Här följer en mer detaljerad beskrivning av de olika områdena:
+Dela upp processen i två fokusområden: a) skicka mönster för e-post och b) det kreativa innehållet i själva e-postmeddelandena. Här följer en mer detaljerad beskrivning av de olika områdena:
 
-**Uppdatera sändningsmönster och tidsplaner**
+**Uppdatera dina sändande mönster och scheman**
 
-* **Starta långsamt** Det är en maraton, inte en sprint. Det är inte en lösning man kan implementera på en dag. Överväg att börja med en liten andel av er målgrupp, 4-5 % eller så, och övervaka prestandan noga.
+* **Starta långsamt** - Det är ett maraton, inte en fjäder. Det är inte en lösning man kan implementera på en dag. Överväg att börja med en liten andel av er målgrupp, 4-5 % eller så, och övervaka prestandan noga.
 
-* **Tänk på varumärkesrykte** - Säkerställ att e-posttrafiken till inaktiva segment inte orsakar några problem med anseendet.
+* **Fundera på varumärkesrykte** - Kontrollera att e-posttrafik till inaktiva segment inte orsakar några problem med anseende.
 
 * **Automatisera arbetsflöden** - Håll listorna rena och snygga.
 
-* **Tryckregler** - Uteslut prenumeranter i programmet för återengagemang från att ta emot andra e-postmeddelanden.
+* **Tryckregler** - Uteslut prenumeranter i återengagemangsprogrammet från att ta emot andra e-postmeddelanden.
 
-**Kreativt innehåll**
+**Kreativt innehåll och innehåll**
 
-* **Erbjud en tydlig OPT-IN/OPT-OUT** - Gör det enkelt för användarna att snabbt bestämma om de vill höra din åsikt eller inte. Ni kan belönas med ett deltagande som tar hänsyn till deras behov först, i stället för att fokusera på företagets behov.
+* **Erbjud en tydlig OPT-IN/OPT-OUT** - Gör det enkelt för användarna att snabbt bestämma sig för om de vill höra din åsikt eller inte. Ni kan belönas med ett deltagande som tar hänsyn till deras behov först, i stället för att fokusera på företagets behov.
 
-* **Skapa ett inställningscenter** - Det här är en chans att ge era prenumeranter ytterligare kontroll, så att de kan välja bland olika e-postinnehåll som nyhetsbrev, kampanjerbjudanden, event och så vidare, samt olika regelbundenhet. Kom ihåg att om ni bestämmer er för att erbjuda detta måste ni se till att ni kan följa igenom och segmentera målgruppen på rätt sätt för att uppfylla dessa önskemål.
+* **Skapa ett inställningscenter** - Det här är en chans att ge dina prenumeranter ytterligare kontroll, så att de kan välja mellan olika e-postinnehåll som nyhetsbrev, kampanjerbjudanden, evenemang och så vidare, samt olika regelbundenhet. Kom ihåg att om ni bestämmer er för att erbjuda detta måste ni se till att ni kan följa igenom och segmentera målgruppen på rätt sätt för att uppfylla dessa önskemål.
 
 * **Starka ämnesrader** - Se till att de sticker ut från annat varumärkesinnehåll
 
-* **Testa och lära** - en bra testplan är viktig för att säkerställa att dina insatser får önskad effekt. Lär dig vad som fungerar och vad som inte fungerar och iterera därefter.
+* **Testa och lär** - en bra testplan är viktig för att se till att dina insatser får önskad effekt. Lär dig vad som fungerar och vad som inte fungerar och iterera därefter.
 
-Om du vill se en sammanfattning av denna artikel och en live demo av hur ni implementerar strategier för återengagemang kan du titta på vår [webbinarium](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+Titta på vårt [webbinarium](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/) om du vill se en sammanfattning av den här artikeln och en live demonstration av implementering av strategier för återengagemang.
 
-Läs mer om strategi och tankeledarskap på [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) nav.
+Läs mer om strategi och tankeledarskap på navet [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).

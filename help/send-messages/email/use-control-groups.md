@@ -13,7 +13,7 @@ exl-id: 2f756353-7b06-4786-8582-38d80288a5e3
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 95%
 
 Förstå begreppet kontrollgrupper och läs om hur du använder en kontrollgrupp för leveransen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12&learn=on){transcript=true}

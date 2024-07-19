@@ -13,7 +13,7 @@ exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Ett personaliseringsblock är dynamiskt och personaliserat och innehåller speci
 
 Lär dig hur du skapar dynamiska innehållsblock och hur du använder dem för att personalisera innehållet i e-postleveransen.
 
->[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}

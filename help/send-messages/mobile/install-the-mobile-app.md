@@ -15,7 +15,7 @@ exl-id: 417ef7bc-bbac-42a0-8a4f-fd04381f8b35
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 96%
 
 Lär dig hur du kontrollerar om mobilappskanalen är installerad på din instans och hur du installerar den.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}

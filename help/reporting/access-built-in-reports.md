@@ -13,7 +13,7 @@ exl-id: 11b67a60-b9f1-450e-a976-d1cca322a243
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 94%
 
 Förstå inbyggd rapportering och analys i Adobe Campaign och lär dig hur du skapar en leveransrapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){transcript=true}

@@ -13,7 +13,7 @@ exl-id: 678abd34-75b3-4c73-9bf3-54852ae12515
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 95%
 
 Förstå processen att skapa en e-postleverans och läs om hur du utformar och personaliserar e-postinnehåll.
 
->[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){transcript=true}

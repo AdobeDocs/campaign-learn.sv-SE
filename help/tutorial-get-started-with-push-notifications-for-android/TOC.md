@@ -4,7 +4,7 @@ user-guide-description: I den här självstudiekursen får du hjälp med att ski
 breadcrumb-title: Kom igång med push-meddelanden för Android
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---

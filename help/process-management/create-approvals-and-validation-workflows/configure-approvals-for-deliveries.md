@@ -12,7 +12,7 @@ exl-id: 3ec4074e-8829-4969-aa87-2f5a8fdefa3c
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Lär dig hur du konfigurerar godkännanden och granskare på leveransnivå.  
 
 Ställ in godkännanden på leveransnivå om godkännandestegen och granskarna skiljer sig åt mellan leveranserna.
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){transcript=true}

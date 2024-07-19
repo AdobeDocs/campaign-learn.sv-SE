@@ -12,13 +12,13 @@ level: Beginner
 exl-id: 9caa11fc-7a37-4036-8e14-c19f736c7efb
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 95%
+source-wordcount: '35'
+ht-degree: 60%
 
 ---
 
 # Skapa direktutskicksleveranser
 
-Lär dig hur [!UICONTROL direktutskick] fungerar i [!UICONTROL Adobe Campaign] och hur du skapar, formaterar och kör en [!UICONTROL direktutskicksleverans].
+Lär dig hur [!UICONTROL direct mail] fungerar i [!UICONTROL Adobe Campaign] och hur du skapar, formaterar och kör en [!UICONTROL direct mail]-leverans.
 
->[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on){transcript=true}
