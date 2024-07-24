@@ -5,7 +5,7 @@ user-guide-title: Självstudiekurser om Adobe Campaign
 user-guide-description: Lär dig hur du använder funktionerna i klientkonsolen Adobe Campaign V8.
 breadcrumb-title: Klientkonsol – självstudiekurser
 auto-video-transcripts: true
-source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
+source-git-commit: 1a4c03a96bb1002cf4e936e8d413af3ac1957252
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 92%
@@ -49,6 +49,8 @@ ht-degree: 92%
       + [Använda kontrollgrupper](/help/send-messages/email/use-control-groups.md)
       + [Felsök e-postleveransproblem](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Utforma e-postmeddelanden för levererbarhet](/help/send-messages/email/design-emails-for-deliverability.md)
+      + [Maximera e-postavkastning och bästa praxis för att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)
+      + [Användarhandbok om bästa praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
    + SMS {#sms}
       + [Skapa en SMS-leverans](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
@@ -103,6 +105,4 @@ ht-degree: 92%
    + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
    + [Tio bästa sätten för marknadsförare att lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
-   + [Maximera e-postavkastning och bästa praxis för att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [Användarhandbok om bästa praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
 + [Adobe Campaign självstudiekurser för webbanvändargränssnitt](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
