@@ -5,10 +5,10 @@ user-guide-title: Självstudiekurser om Adobe Campaign
 user-guide-description: Lär dig hur du använder funktionerna i klientkonsolen Adobe Campaign V8.
 breadcrumb-title: Klientkonsol – självstudiekurser
 auto-video-transcripts: true
-source-git-commit: e10b192da04774d44652e6771c17b6d823a74636
+source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 91%
+source-wordcount: '408'
+ht-degree: 90%
 
 ---
 
@@ -102,6 +102,7 @@ ht-degree: 91%
    + [Värmekarta för arbetsflöde](/help/monitoring/workflow-heatmap.md)
    + [Granskningsspår](/help/monitoring/audit-trail.md)
 + Administration {#administration}
+   + [Hantera användarbehörigheter](/help/administration/manage-user-permissions.md)
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=sv){target="_blank"}
    + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
