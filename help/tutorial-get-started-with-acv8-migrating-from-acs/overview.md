@@ -19,7 +19,7 @@ Välkommen till Adobe Campaign v8!
 
 Referenshandboken har utformats för användare som migrerat från Campaign Standard till Campaign v8. Det hjälper dig att bekanta dig med din nya Campaign-instans och vägleda dig genom de steg som krävs för att komma igång med din roll.
 
-1. Börja med att lära dig mer om de viktigaste funktionerna och terminologin i Campaign v8. Granska övergången från [Campaign Standard till Campaign v8-guiden](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)
+1. Börja med att lära dig mer om de viktigaste funktionerna och terminologin i Campaign v8. Granska övergången från [Campaign Standard till Campaign v8-guiden](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/start/acs-migration)
 
 2. Välj sedan din roll nedan för att komma åt den relevanta referenshandboken för din roll:
 

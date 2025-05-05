@@ -19,18 +19,18 @@ Den här guiden ger en översikt över de viktigaste funktionerna i Campaign v8.
 Du kan komma åt Adobe Campaign v8 via klientkonsolen eller webbanvändargränssnittet. Med webbgränssnittet kan ni skapa, hantera och utföra viktiga marknadsföringsåtgärder.
 
 >[!NOTE]
-> Adobe Campaign Web-gränssnittsreleaser fungerar enligt en kontinuerlig leveransmodell som ger en mer skalbar, stegvis metod för driftsättning av funktioner. Kontrollera [versionsinformationen](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) regelbundet för att se om det finns de senaste uppdateringarna.
+> Adobe Campaign Web-gränssnittsreleaser fungerar enligt en kontinuerlig leveransmodell som ger en mer skalbar, stegvis metod för driftsättning av funktioner. Kontrollera [versionsinformationen](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/release-notes/release-notes) regelbundet för att se om det finns de senaste uppdateringarna.
 
 ## Få åtkomst till och utforska gränssnittet för webbkampanjen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
 
-1. [Identifiera gränssnittet](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/user-interface)
-2. [Bläddra och filtrera listan](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/list-filters)
+1. [Identifiera gränssnittet](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/start/user-interface)
+2. [Bläddra och filtrera listan](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/start/list-filters)
 
 ## Hitta hjälp och vägledning
 
-[Adobe Campaign webbgränssnittsdokumentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+[Adobe Campaign webbgränssnittsdokumentation](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/campaign-web-home)
 
 ## Skapa och hantera profiler och målgrupper
 
@@ -42,15 +42,15 @@ Det allmänna begreppet att skapa och hantera målgrupper i Campaign v8 är dets
 
    >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
 
-   Mer information finns i [Kom igång med profiler](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}.
+   Mer information finns i [Kom igång med profiler](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}.
 
 2. Lär dig hur du bygger och hanterar målgrupper, hur du väljer målgrupper för en leverans och definierar kontrollgrupper.
 
    >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
 
-   Mer information finns i [Kom igång med målgrupper](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}.
+   Mer information finns i [Kom igång med målgrupper](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}.
 
-3. [Skapa och hantera testprofiler](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles){target="_blank"}
+3. [Skapa och hantera testprofiler](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles){target="_blank"}
 
 ### Hantera prenumerationer
 
@@ -58,27 +58,27 @@ Använd Adobe Campaign Web för att hantera och skapa t.ex. nyhetsbrev och för 
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/audiences/work-with-services/manage-services">
 <img alt="Sällan" src="_assets/lp-list.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services"><strong>Skapa prenumerationstjänster</strong></a>
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/audiences/work-with-services/manage-services"><strong>Skapa prenumerationstjänster</strong></a>
 </div>
 <p></td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers">
 <img alt="Sällan" src="_assets/workflow-activities.jpeg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers"><strong>Hantera prenumeranter<strong></strong></a>
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers"><strong>Hantera prenumeranter<strong></strong></a>
 </div>
 <p></td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/send-to-subscribers">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/send-to-subscribers">
 <img alt="Validering" src="_assets/workflow-create.jpeg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/send-to-subscribers"><strong>Skicka meddelanden till prenumeranterna på en tjänst</strong></a>
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/send-to-subscribers"><strong>Skicka meddelanden till prenumeranterna på en tjänst</strong></a>
 </div>
 <p>
 </td>
@@ -91,9 +91,9 @@ Använd Adobe Campaign Web för att hantera och skapa t.ex. nyhetsbrev och för 
 
 ### Skapa en kampanj
 
-1. [Kom igång med kampanjer](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/gs-campaigns){target="_blank"}
-2. [Få åtkomst till och hantera kampanjer](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns){target="_blank"}
-3. [Skapa din första kampanj](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns){target="_blank"}
+1. [Kom igång med kampanjer](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/campaigns/gs-campaigns){target="_blank"}
+2. [Få åtkomst till och hantera kampanjer](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/campaigns/manage-campaigns){target="_blank"}
+3. [Skapa din första kampanj](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/campaigns/create-campaigns){target="_blank"}
 
 ### Skapa ett arbetsflöde
 
@@ -101,8 +101,8 @@ Använd Adobe Campaign Web för att hantera och skapa t.ex. nyhetsbrev och för 
 
    >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
 
-1. [Arbeta med arbetsflödesaktiviteter](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
-1. [Skyddsritningar och begränsningar för arbetsflöden](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/guardrails){target="_blank"}
+1. [Arbeta med arbetsflödesaktiviteter](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
+1. [Skyddsritningar och begränsningar för arbetsflöden](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/wf/guardrails){target="_blank"}
 
 ## Skapa och hantera leveranser
 
@@ -130,35 +130,35 @@ Lär dig hur du skapar en e-postleverans från grunden, definierar målgruppen, 
 
 3. **Skicka loggar för e-post och kontroll**
 
-   * [Förbered och skicka ett e-postmeddelande](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send){target="_blank"}
-   * [Schemalägg sändning av leverans](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending){target="_blank"}
-   * [Övervaka leveransloggar](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs){target="_blank"}
+   * [Förbered och skicka ett e-postmeddelande](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/email/monitor/prepare-send){target="_blank"}
+   * [Schemalägg sändning av leverans](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/email/monitor/schedule-sending){target="_blank"}
+   * [Övervaka leveransloggar](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/email/monitor/delivery-logs){target="_blank"}
 
 ### SMS-leverans
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/create-sms">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/sms/create-sms">
 <img alt="Lead" src="_assets/create_sms.png">
 </a>
-<div><a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/create-sms"><strong>Skapa en SMS-leverans</strong>
+<div><a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/sms/create-sms"><strong>Skapa en SMS-leverans</strong>
 </div>
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/content-sms">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/sms/content-sms">
 <img alt="Sällan" src="_assets/design_sms.png">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/content-sms"><strong>Designa en SMS-leverans<strong></strong></a>
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/sms/content-sms"><strong>Designa en SMS-leverans<strong></strong></a>
 </div>
 <p></td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/send-sms">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/sms/send-sms">
 <img alt="Validering" src="_assets/send_sms.png">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/send-sms"><strong>Förhandsgranska och skicka en SMS-leverans</strong></a>
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/sms/send-sms"><strong>Förhandsgranska och skicka en SMS-leverans</strong></a>
 </div>
 <p>
 </td>
@@ -170,67 +170,67 @@ Adobe Campaign v8 har stöd för både Android™ och iOS Push Channel. Om du vi
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/create-push">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/push/create-push">
 <img alt="Lead" src="_assets/push_create.jpeg">
 </a>
-<div><a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/create-push"><strong>Skapa en push-leverans</strong>
+<div><a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/push/create-push"><strong>Skapa en push-leverans</strong>
 </div>
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/content-push">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/push/content-push">
 <img alt="Sällan" src="_assets/push_design.jpeg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/content-push"><strong>Designa en push-leverans<strong></strong></a>
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/push/content-push"><strong>Designa en push-leverans<strong></strong></a>
 </div>
 <p></td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/send-push">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/push/send-push">
 <img alt="Validering" src="_assets/push_send.jpeg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/send-push"><strong>Förhandsgranska och skicka en push-leverans</strong></a>
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/push/send-push"><strong>Förhandsgranska och skicka en push-leverans</strong></a>
 </div>
 <p>
 </tr></table>
 
 ### Direktmeddelande
 
-1. [Skapa direktleverans via e-post](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/create-direct-mail)
-2. [Definiera innehåll](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/content-direct-mail){target="_blank"}
-3. [Förhandsgranska och skicka](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/send-direct-mail){target="_blank"}
+1. [Skapa direktleverans via e-post](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/direct-mail/create-direct-mail)
+2. [Definiera innehåll](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/direct-mail/content-direct-mail){target="_blank"}
+3. [Förhandsgranska och skicka](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/direct-mail/send-direct-mail){target="_blank"}
 
 ### God praxis för leverans
 
-* [Använd leveransmallar](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/delivery-template){target="_blank"}
+* [Använd leveransmallar](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/delivery-template){target="_blank"}
 
 ## Skapa och hantera landningssidor
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/create-lp">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/landing-pages/create-lp">
 <img alt="Lead" src="_assets/lp-subscription.jpeg">
 </a>
-<div><a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/create-lp"><strong>Skapa landningssidor</strong>
+<div><a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/landing-pages/create-lp"><strong>Skapa landningssidor</strong>
 </div>
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-content">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/landing-pages/lp-content">
 <img alt="Validering" src="_assets/lp-design.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-content"><strong>Utforma landningssidor</strong></a>
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/landing-pages/lp-content"><strong>Utforma landningssidor</strong></a>
 </div>
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/landing-pages/lp-templates">
 <img alt="Validering" src="_assets/lp-reporting.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Arbeta med mallar för landningssidor</strong></a>
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Arbeta med mallar för landningssidor</strong></a>
 </div>
 <p>
 </td>
@@ -244,13 +244,13 @@ Adobe Campaign v8 har stöd för både Android™ och iOS Push Channel. Om du vi
 * [Innehållsblock](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/content-blocks){target="_blank"}
 * [Innehållsfragment](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/fragments){target="_blank"}
 * [Lägg till visuella fragment i e-postmeddelanden](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/use-visual-fragments){target="_blank"}
-* [Lägg till erbjudanden i dina meddelanden](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers){target="_blank"}
+* [Lägg till erbjudanden i dina meddelanden](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/offers){target="_blank"}
 * [Skapa e-postmallar](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/create-email-templates){target="_blank"}
 
 ## Skicka leveranser
 
-* [Schemalägg en fristående leverans](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/gs-deliveries#gs-schedule){target="_blank"}
-* [Schemalägg en leverans i ett arbetsflöde](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending#schedule-a-delivery-in-a-campaign-workflow){target="_blank"}
+* [Schemalägg en fristående leverans](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/gs-deliveries#gs-schedule){target="_blank"}
+* [Schemalägg en leverans i ett arbetsflöde](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/email/monitor/schedule-sending#schedule-a-delivery-in-a-campaign-workflow){target="_blank"}
 
 
 ## Rapportering
@@ -259,11 +259,11 @@ Adobe Campaign erbjuder tre olika rapporter:
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/campaign-report/campaign-reports">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/reports/campaign-report/campaign-reports">
 <img alt="Validering" src="./_assets/campaign_report.jpeg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/campaign-report/campaign-reports"><strong>Kampanjrapporter</strong></a>
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/reports/campaign-report/campaign-reports"><strong>Kampanjrapporter</strong></a>
 </div>
 <p>
 <div>
@@ -272,10 +272,10 @@ Adobe Campaign erbjuder tre olika rapporter:
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/delivery-report/delivery-reports">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/reports/delivery-report/delivery-reports">
 <img alt="Lead" src="_assets/email_report.jpeg">
 </a>
-<div><a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/delivery-report/delivery-reports"><strong>Leveransrapporter</strong>
+<div><a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/reports/delivery-report/delivery-reports"><strong>Leveransrapporter</strong>
 </div>
 <p>
 <div>
@@ -284,11 +284,11 @@ Adobe Campaign erbjuder tre olika rapporter:
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/global-report/global-reports">
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/reports/global-report/global-reports">
 <img alt="Globala rapporter" src="_assets/push_report.jpeg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/global-report/global-reports"><strong> globala rapporter </strong></a>
+<a href="https://experienceleague.adobe.com/sv/docs/campaign-web/v8/reports/global-report/global-reports"><strong> globala rapporter </strong></a>
 </div>
 <p>
 <div>
@@ -302,16 +302,16 @@ Adobe Campaign erbjuder tre olika rapporter:
 
 ### Adobe Experience Manager
 
-* [Hantera resurser med Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets){target="_blank"}
-* [Hantera mallar med Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content){target="_blank"}
+* [Hantera resurser med Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/integrations/aem-assets){target="_blank"}
+* [Hantera mallar med Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/integrations/aem-content){target="_blank"}
 
 ### Övriga
 
 Följande integreringar är tillgängliga från Adobe Campaign klientkonsol och är ännu inte tillgängliga i Campaign Web User Interface. Använd länkarna för att bläddra i dokumentationen för Campaign v8 (klientkonsolen) och läs mer om dessa integreringar:
 
-* Adobe Analytics dataanvändning och KPI-delning. [Läs mer](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa){target="_blank"}
-* Målgruppsdelning med Adobe Experience Cloud (Adobe Audience Manager). [Läs mer](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud){target="_blank"}
-* Integrering med Adobe Target. [Läs mer](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at){target="_blank"}
-* Integrering med Adobe Experience Cloud Triggers. [Läs mer](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-triggers){target="_blank"}
+* Adobe Analytics dataanvändning och KPI-delning. [Läs mer](https://experienceleague.adobe.com/sv/docs/campaign/campaign-v8/connect/ac-aa){target="_blank"}
+* Målgruppsdelning med Adobe Experience Cloud (Adobe Audience Manager). [Läs mer](https://experienceleague.adobe.com/sv/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud){target="_blank"}
+* Integrering med Adobe Target. [Läs mer](https://experienceleague.adobe.com/sv/docs/campaign/campaign-v8/connect/ac-at){target="_blank"}
+* Integrering med Adobe Experience Cloud Triggers. [Läs mer](https://experienceleague.adobe.com/sv/docs/campaign/campaign-v8/connect/ac-triggers){target="_blank"}
 
 

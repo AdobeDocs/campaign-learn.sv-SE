@@ -19,7 +19,7 @@ ht-degree: 90%
 + [Viktiga funktioner i Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=sv)
 + Kom igång {#getting-started}
    + [Introduktion till Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Adobe Campaign v8 - Adoptionshandbok](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Adobe Campaign v8 - Adoptionshandbok](https://experienceleague.adobe.com/sv/docs/campaign-web/acs-to-ac/home)
    + [Installera och konfigurera klientkonsolen i Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Utforska användargränssnittet i Adobe Campaign ](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/get-started/manage-marketing-campaigns.md)
@@ -107,4 +107,4 @@ ht-degree: 90%
    + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
    + [Tio bästa sätten för marknadsförare att lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
-+ [Adobe Campaign självstudiekurser för webbanvändargränssnitt](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [Adobe Campaign självstudiekurser för webbanvändargränssnitt](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=sv-SE)

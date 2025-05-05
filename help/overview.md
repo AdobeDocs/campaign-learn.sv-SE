@@ -23,7 +23,7 @@ Se
 > Har du frågor? Vill du dela med dig av dina erfarenheter eller utbyta tankar med andra? Eller har du feedback på kursmaterialet för Adobe-teamet? Delta i konversationen i [Adobe Campaign Learning Community-tråden](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 > 
 > De här självstudiekurserna är inte vad du letar efter?
-> I [Adobe Campaign-självstudiekurserna för webbanvändargränssnittet](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) finns mer information om hur du använder webbanvändargränssnittet för Campaign.
+> I [Adobe Campaign-självstudiekurserna för webbanvändargränssnittet](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=sv-SE) finns mer information om hur du använder webbanvändargränssnittet för Campaign.
 
 >[!NOTE]
 > Campaign v8 är för närvarande bara tillgängligt som en hanterad Cloud Service och kan inte distribueras i en lokal miljö eller hybridmiljö. Automatisk migrering från en befintlig Campaign Classic v7-miljö är inte tillgänglig än.
