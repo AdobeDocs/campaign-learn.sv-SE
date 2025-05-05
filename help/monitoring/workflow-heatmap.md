@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Lär dig hur du övervakar inläsningen av instansen och planerar arbetsflödesscheman utifrån detta.
 
->[!VIDEO](https://video.tv.adobe.com/v/342084?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445401?quality=12&learn=on&captions=swe){transcript=true}

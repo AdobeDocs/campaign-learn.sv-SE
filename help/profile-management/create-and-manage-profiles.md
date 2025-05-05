@@ -23,4 +23,4 @@ Förstå begreppet profiler. Lär dig hur du får åtkomst till profildata, sort
 
 I den här videon förklaras också efterlevnad i Adobe Campaign av den allmänna dataskyddsförordningen (GDPR) och California Consumer Privacy Act (CCPA).
 
->[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452095?quality=12&learn=on&captions=swe){transcript=true}

@@ -23,4 +23,4 @@ Trötthetshanteringen styr frekvens och antal meddelanden för att undvika att m
 
 Lär dig hur du implementerar trötthetshantering i Adobe Campaign med hjälp av filter.
 
->[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448335?quality=12&learn=on&captions=swe){transcript=true}

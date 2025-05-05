@@ -21,7 +21,7 @@ ht-degree: 65%
 
 Lär dig hur du utökar [!UICONTROL app subscription]-schemat så att det går att lagra personaliseringsvärden som [!DNL Campaign] tar emot från en mobilapp.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445556?quality=12&learn=on&captions=swe){transcript=true}
 
 **Nästa steg**
 

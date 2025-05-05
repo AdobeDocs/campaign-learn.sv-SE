@@ -23,4 +23,4 @@ Godkännanden gör det möjligt för operatörer att fatta beslut som styr ett a
 
 Lär dig hur du ställer in godkännanden och en kampanj och hur du skiljer mellan leverans- och arbetsflödesgodkännanden.
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426633?quality=12&learn=on&captions=swe){transcript=true}

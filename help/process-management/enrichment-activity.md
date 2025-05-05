@@ -23,4 +23,4 @@ Den berikande aktiviteten är ett arbetsflödesobjekt som lägger till data i ar
 
 Lär dig hur du konfigurerar en berikande aktivitet baserat på information i leveransloggen.
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452172?quality=12&learn=on&captions=swe){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Lär dig hur du konfigurerar egenskaper för leveransmallar och förklarar varje egenskap i detalj.
 
->[!VIDEO](https://video.tv.adobe.com/v/338969?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443405?quality=12&learn=on&captions=swe){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du förfinar ditt mål genom att använda skärnings- eller unionsaktiviteter för att kombinera frågeresultat i ett arbetsflöde.
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3429333?quality=12&learn=on&captions=swe){transcript=true}

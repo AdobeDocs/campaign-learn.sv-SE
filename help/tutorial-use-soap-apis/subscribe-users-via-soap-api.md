@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Lär dig hur du skapar en nyhetsbrevtjänst och prenumererar en mottagare med hjälp av SOAP API-anrop.
 
->[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446021?quality=12&learn=on&captions=swe){transcript=true}
 
 Fortsätt till: [Steg 4 – skapa en innehållssammanfattning med ett arbetsflöde](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Arbetsflöden, en kraftfull Adobe Campaign-funktion, hjälper dig att hantera kampanjer och nå ut till kunderna enklare. Lär dig och tillämpa god praxis för fem viktiga arbetsflöden för marknadsförare från Adam Wilson, Associate Director of Marketing, hos LoyaltyOne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448128?quality=12&learn=on&captions=swe){transcript=true}

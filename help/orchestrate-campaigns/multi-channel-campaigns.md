@@ -23,4 +23,4 @@ I en flerkanalskampanj används flera kanaler för en enda marknadsföringskommu
 
 Lär dig hur du skapar en flerkanalskampanj med e-post, SMS och direktreklam baserat på mottagarens önskade kanal.
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452507?quality=12&learn=on&captions=swe){transcript=true}

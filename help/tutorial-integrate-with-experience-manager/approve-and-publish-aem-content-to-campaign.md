@@ -21,5 +21,5 @@ ht-degree: 100%
 
 Lär dig hur du skapar ett nyhetsbrev i Experience Manager och hur du godkänner och publicerar det till Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447575?quality=12&learn=on&captions=swe){transcript=true}
 

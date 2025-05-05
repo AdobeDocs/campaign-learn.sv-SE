@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Lär dig vad målgruppsmått och arbetstabeller är och hur Adobe Campaign hanterar data över olika datakällor.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452596?quality=12&learn=on&captions=swe){transcript=true}

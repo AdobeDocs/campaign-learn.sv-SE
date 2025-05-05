@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Förstå de viktigaste begreppen i [!UICONTROL Adobe Campaign] som hjälper dig att effektivt planera, genomföra och mäta kampanjer över flera kanaler.
 
->[!VIDEO](https://video.tv.adobe.com/v/335608?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449648?quality=12&learn=on&captions=swe){transcript=true}

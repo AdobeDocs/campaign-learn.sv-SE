@@ -21,4 +21,4 @@ ht-degree: 64%
 
 Lär dig mer om användargränssnittet i Adobe Campaign V8 och hur du navigerar bland huvudfunktionerna.
 
->[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426443?quality=12&learn=on&captions=swe){transcript=true}

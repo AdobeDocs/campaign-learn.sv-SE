@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Förstå användningen av kampanjarbetsflöden och lär dig hur du skapar ett arbetsflöde och använder filtervillkor för att rikta in dig mot profiler i ett arbetsflöde.
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453580?quality=12&learn=on&captions=swe){transcript=true}
 
 ## Nästa lektioner att titta på
 

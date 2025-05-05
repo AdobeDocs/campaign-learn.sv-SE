@@ -21,7 +21,7 @@ ht-degree: 100%
 
 I den här första delen av självstudiekursen Skapa ett exportarbetsflöde, får du lära dig hur du skapar ett arbetsflöde som hittar datumet för senaste ändring för en lista med mottagare som skapats från ett Experience Platform-segment.
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450051?quality=12&learn=on&captions=swe){transcript=true}
 
 ## Resurser
 

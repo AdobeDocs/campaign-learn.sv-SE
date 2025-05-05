@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Läs om hur du skapar en händelseaktiverad kampanj och förstå hur den används.
 
->[!VIDEO](https://video.tv.adobe.com/v/334478?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3429315?quality=12&learn=on&captions=swe){transcript=true}

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Lär dig hur du skapar en sessionstoken med Postman för användning i API-begäranden.
 
->[!VIDEO](https://video.tv.adobe.com/v/336536?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449479?quality=12&learn=on&captions=swe){transcript=true}
 
 Nästa video att titta på: [Steg 2 – lägg till mottagare och artiklar med SOAP API-begäran](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)

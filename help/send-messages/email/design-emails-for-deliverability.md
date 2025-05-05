@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Lär dig hur du tillämpar god praxis för levererbarhet i dina e-postleveranser.
 
->[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452007?quality=12&learn=on&captions=swe){transcript=true}
 
 ## Ytterligare resurser
 

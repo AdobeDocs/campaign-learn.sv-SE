@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Lär dig hur du importerar data med hjälp av en källanslutning i Experience Platform för att uppdatera profildata med exporterade kampanjloggar.
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452029?quality=12&learn=on&captions=swe){transcript=true}

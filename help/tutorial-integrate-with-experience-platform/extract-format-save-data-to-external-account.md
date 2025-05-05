@@ -21,7 +21,7 @@ ht-degree: 100%
 
 I den andra delen av självstudiekursen Skapa ett exportarbetsflöde får du lära dig hur du formaterar data för export och hur du sparar data till ett externt konto.
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449910?quality=12&learn=on&captions=swe){transcript=true}
 
 ## Resurser
 

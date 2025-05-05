@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Lär dig hur du hämtar data med olika målinriktnings- och filtreringsdimensioner och hur du kan koppla utdata med en skärningspunkt, för att skapa en automatiserad innehållssammanfattningsleverans.
 
->[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452894?quality=12&learn=on&captions=swe){transcript=true}
 
 Nästa steg: [skicka en leverans till mottagare som prenumererar](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

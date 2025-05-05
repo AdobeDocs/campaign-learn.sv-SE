@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Förstå processen att skapa en e-postleverans och läs om hur du utformar och personaliserar e-postinnehåll.
 
->[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444313?quality=12&learn=on&captions=swe){transcript=true}

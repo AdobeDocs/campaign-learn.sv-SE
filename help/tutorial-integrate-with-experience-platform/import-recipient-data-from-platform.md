@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Lär dig hur du konfigurerar ett externt konto i Adobe Campaign för att importera mottagardata från Adobe Experience Platform till Campaign. Lär dig hur du skapar ett arbetsflöde för att överföra och rikta in dig på mottagare som tagits emot från Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453481?quality=12&learn=on&captions=swe){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar en [!UICONTROL descriptive analysis report] från ett arbetsflöde.
 
->[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448833?quality=12&learn=on&captions=swe){transcript=true}

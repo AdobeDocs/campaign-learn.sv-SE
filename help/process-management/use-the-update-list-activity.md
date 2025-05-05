@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig mer om begreppet listor i Adobe Campaign och hur du skapar en lista med hjälp av aktiviteten för att uppdatera listor i ett arbetsflöde.
 
->[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426465?quality=12&learn=on&captions=swe){transcript=true}

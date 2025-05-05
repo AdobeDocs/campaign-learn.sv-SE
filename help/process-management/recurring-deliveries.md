@@ -39,10 +39,10 @@ De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller
 
 Videon förklarar hur du konfigurerar en återkommande leverans och en schemalagd aktivitet.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446878?quality=12&learn=on&captions=swe){transcript=true}
 
 ## Så ställer du in en kontinuerlig leverans {#how-to-set-up-a-continuous-delivery}
 
 Den här videon visar hur du konfigurerar en kontinuerlig leverans med en stegvis frågeställning.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444571?quality=12&learn=on&captions=swe){transcript=true}

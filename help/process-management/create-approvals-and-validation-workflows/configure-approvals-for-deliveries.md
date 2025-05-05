@@ -22,4 +22,4 @@ Lär dig hur du konfigurerar godkännanden och granskare på leveransnivå.  
 
 Ställ in godkännanden på leveransnivå om godkännandestegen och granskarna skiljer sig åt mellan leveranserna.
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437649?quality=12&learn=on&captions=swe){transcript=true}

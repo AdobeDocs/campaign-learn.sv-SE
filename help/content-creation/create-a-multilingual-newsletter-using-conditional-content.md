@@ -23,4 +23,4 @@ Genom att konfigurera fält med villkorsstyrt innehåll kan du skapa avancerad p
 
 Lär dig hur du lägger till villkorsstyrt innehåll i en leverans med ett exempel som visar ett flerspråkigt nyhetsbrev.
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446715?quality=12&learn=on&captions=swe){transcript=true}

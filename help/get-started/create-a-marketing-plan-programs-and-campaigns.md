@@ -22,4 +22,4 @@ ht-degree: 100%
 Lär dig hur du skapar en marknadsföringsplan, ett program, en kampanj, hur du anger egenskaper för en kampanj samt hur du använder schemat.
 Videon vägleder dig genom en övning som du kan följa via din egen instans.
 
->[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449902?quality=12&learn=on&captions=swe){transcript=true}

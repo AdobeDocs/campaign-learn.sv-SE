@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Lär dig hur du anpassar SMS-anslutningen till SMPP-leverantören. Finjustera SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönstret och kryptering med TLS.
 
->[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453877?quality=12&learn=on&captions=swe){transcript=true}
 
 Du hittar mer information om SMPP-protokollet, information om inställningar för externa konton och felsökning av de vanligaste problemen i [Protokoll och inställningar för SMS-anslutning](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=sv#sending-messages).

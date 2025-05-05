@@ -25,4 +25,4 @@ Ett personaliseringsblock är dynamiskt och personaliserat och innehåller speci
 
 Lär dig hur du skapar dynamiska innehållsblock och hur du använder dem för att personalisera innehållet i e-postleveransen.
 
->[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449010?quality=12&learn=on&captions=swe){transcript=true}

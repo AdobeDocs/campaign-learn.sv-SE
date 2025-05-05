@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du förfinar ditt mål genom att tillämpa ett standardundantag i ett arbetsflöde. Lär dig hur du skapar fördefinierade filter och felsöker arbetsflödet.
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452930?quality=12&learn=on&captions=swe){transcript=true}

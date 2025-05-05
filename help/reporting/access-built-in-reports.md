@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Förstå inbyggd rapportering och analys i Adobe Campaign och lär dig hur du skapar en leveransrapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448287?quality=12&learn=on&captions=swe){transcript=true}

@@ -22,4 +22,4 @@ Lär dig hur du konfigurerar godkännanden och granskare på kampanjnivå.  
 
 Godkännanden bör ställas in på kampanjnivå om du har samma uppsättning granskare för alla leveranser i ditt kampanjarbetsflöde.
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446502?quality=12&learn=on&captions=swe){transcript=true}

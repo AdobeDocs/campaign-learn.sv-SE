@@ -24,4 +24,4 @@ Adobe Campaign använder arbetsflöden för att genomföra målinriktade kampanj
 
 Lär dig hur du definierar flera leveransmål med hjälp av målinriktade arbetsflöden.
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450192?quality=12&learn=on&captions=swe){transcript=true}

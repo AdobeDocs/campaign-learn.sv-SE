@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Lär dig hur du konfigurerar och hanterar prenumerationer samt riktar dig till prenumeranter.
 
->[!VIDEO](https://video.tv.adobe.com/v/334305?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426561?quality=12&learn=on&captions=swe){transcript=true}

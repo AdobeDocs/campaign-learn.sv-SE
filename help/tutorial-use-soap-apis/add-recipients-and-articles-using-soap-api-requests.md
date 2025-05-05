@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Lär dig hur du använder Campaign SOAP API:et för att skapa en ny mottagare. Lär dig hur du skapar ett anpassat artikeldataschema och skickar en artikel med SOAP API:et.
 
->[!VIDEO](https://video.tv.adobe.com/v/336386?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453536?quality=12&learn=on&captions=swe){transcript=true}
 
 Nästa video att titta på: [Steg 3 – prenumerera användare via SOAP API](/help/tutorial-use-soap-apis/subscribe-users-via-soap-api.md)

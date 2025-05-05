@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Följande video förklarar hur du hämtar och installerar klientkonsolen i Adobe Campaign, skapar och hanterar anslutningar till flera miljöer samt verifierar åtkomst till klientkonsolen i Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449885?quality=12&learn=on&captions=swe){transcript=true}

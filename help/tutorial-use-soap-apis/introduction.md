@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Lär dig hur du använder Adobe Campaign Soap API:er och skapar ett avancerat leveransarbetsflöde baserat på data som tas emot via API:et.
 
->[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3438338?quality=12&learn=on&captions=swe){transcript=true}
 
 Nästa video att titta på: [Steg 1: kom igång med SOAP API:er](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)

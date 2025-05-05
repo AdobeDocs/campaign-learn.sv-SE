@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Förstå skillnaden mellan flerkanals- och tvärkanalskampanjer och användningsfallen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447202?quality=12&learn=on&captions=swe){transcript=true}

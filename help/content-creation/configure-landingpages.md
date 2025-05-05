@@ -23,4 +23,4 @@ Med Adobe Campaign kan du designa och lägga upp olika landningssidor på server
 
 I den här videon visas hur du navigerar i Adobe Campaign webbprogramredigerare genom att skapa ett inställningscenter.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450218?quality=12&learn=on&captions=swe){transcript=true}

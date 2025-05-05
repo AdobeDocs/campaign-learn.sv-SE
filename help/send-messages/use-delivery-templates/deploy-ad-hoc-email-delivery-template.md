@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Den här videon förklarar hur du driftsätter en mall för ad hoc-e-postleverans och skillnaden mellan en e-postleverans och ett leveransarbetsflöde.
 
->[!VIDEO](https://video.tv.adobe.com/v/338965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444961?quality=12&learn=on&captions=swe){transcript=true}

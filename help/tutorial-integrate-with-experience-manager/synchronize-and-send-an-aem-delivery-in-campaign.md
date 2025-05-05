@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Lär dig hur du testar och skickar ett nyhetsbrev i Campaign som har skapats i Experience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444752?quality=12&learn=on&captions=swe){transcript=true}

@@ -27,6 +27,6 @@ ht-degree: 65%
 
 Lär dig hur du får åtkomst till Granskningsspåret och vilka inställningar som kan konfigureras.
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444238?quality=12&learn=on&captions=swe){transcript=true}
 
 Mer information finns i[Granskningsspårsdokumentationen ](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=sv).

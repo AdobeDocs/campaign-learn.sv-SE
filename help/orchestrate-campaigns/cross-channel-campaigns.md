@@ -23,4 +23,4 @@ I en tvärkanalskampanj används olika kanaler för en enda marknadsföringskomm
 
 Lär dig hur du skapar en tvärkanalskampanj med e-post och direktreklam baserat på kundens interaktion med den första leveransen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426518?quality=12&learn=on&captions=swe){transcript=true}

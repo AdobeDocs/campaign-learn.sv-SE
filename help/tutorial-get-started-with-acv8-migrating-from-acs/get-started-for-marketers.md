@@ -23,7 +23,7 @@ Du kan komma åt Adobe Campaign v8 via klientkonsolen eller webbanvändargränss
 
 ## Få åtkomst till och utforska gränssnittet för webbkampanjen
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453426?quality=12&learn=on&captions=swe){transcript=true}
 
 1. [Identifiera gränssnittet](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/start/user-interface)
 2. [Bläddra och filtrera listan](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/start/list-filters)
@@ -40,13 +40,13 @@ Det allmänna begreppet att skapa och hantera målgrupper i Campaign v8 är dets
 
 1. Lär dig hur du får tillgång till, hanterar och utforskar profiler med webbgränssnittet i Campaign.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3448368?quality=12&learn=on&captions=swe){transcript=true}
 
    Mer information finns i [Kom igång med profiler](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}.
 
 2. Lär dig hur du bygger och hanterar målgrupper, hur du väljer målgrupper för en leverans och definierar kontrollgrupper.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453206?quality=12&learn=on&captions=swe){transcript=true}
 
    Mer information finns i [Kom igång med målgrupper](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}.
 
@@ -99,7 +99,7 @@ Använd Adobe Campaign Web för att hantera och skapa t.ex. nyhetsbrev och för 
 
 1. Lär dig hur arbetsflöden fungerar och hur du skapar ett arbetsflöde med målinriktning.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453976?quality=12&learn=on&captions=swe){transcript=true}
 
 1. [Arbeta med arbetsflödesaktiviteter](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [Skyddsritningar och begränsningar för arbetsflöden](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -110,23 +110,23 @@ Använd Adobe Campaign Web för att hantera och skapa t.ex. nyhetsbrev och för 
 
 Lär dig hur du skapar en e-postleverans från grunden, definierar målgruppen, utformar innehållet, simulerar förhandsgranskning och skickar ett korrektur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454009?quality=12&learn=on&captions=swe){transcript=true}
 
 1. **Designa och definiera innehåll**
 
    Lär dig navigera i e-post-Designer. Lär dig strukturera och utforma ett e-postmeddelande från grunden, hur du anpassar och testar e-postmeddelandet.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453569?quality=12&learn=on&captions=swe){transcript=true}
 
    Lär dig hur du skapar ett e-postmeddelande genom att överföra HTML, hur du gör det kompatibelt med e-post-Designer och hur du konverterar det till en mall.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3447036?quality=12&learn=on&captions=swe){transcript=true}
 
 2. **Förhandsgranska och testa**
 
    Lär dig hur du förhandsgranskar e-postmeddelandeinnehåll och -personalisering, skickar testleveranser (korrektur) och kontrollerar e-poståtergivningen i vanliga dator-, mobil- och webbaserade klienter.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3450341?quality=12&learn=on&captions=swe){transcript=true}
 
 3. **Skicka loggar för e-post och kontroll**
 

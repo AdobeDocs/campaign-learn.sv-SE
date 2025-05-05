@@ -25,7 +25,7 @@ Gå till [Kom igång med Campaign-arkitekturen](https://experienceleague.adobe.c
 
 De huvudsakliga administrations- och konfigurationsuppgifterna utförs i [Admin Console]. Det första steget är att konfigurera miljön. I följande video förklaras hur du hämtar och installerar Adobe Campaign Client Console och hanterar anslutningen till din instans.
 
->[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449885?quality=12&learn=on&captions=swe){transcript=true}
 
 Mer information finns i [Ansluta till kampanj med klientkonsolen](https://experienceleague.adobe.com/sv/docs/campaign/campaign-v8/new/connect){target="_blank"}.
 
@@ -55,7 +55,7 @@ Med Adobe Campaign kan du definiera och hantera de behörigheter som tilldelats 
 
 Lär dig vad målgruppsmått och arbetstabeller är och hur Adobe Campaign hanterar data över olika datakällor.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452596?quality=12&learn=on&captions=swe){transcript=true}
 
 
 ### Skapa och utöka ett schema

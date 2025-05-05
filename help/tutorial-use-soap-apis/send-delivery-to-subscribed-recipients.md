@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Lär dig hur du kopplar data från två segment, skapar ett artikelvarningsmeddelande via e-post och anpassar det baserat på data som tagits emot från ett externt API. Vi fortsätter att bygga arbetsflödet som skapades i föregående steg: videon [Fråga artiklar och mottagarprenumerationsvärden](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449568?quality=12&learn=on&captions=swe){transcript=true}
