@@ -41,7 +41,7 @@ Med Adobe Campaign kan du definiera och hantera de behörigheter som tilldelats 
 
 ## Konfigurera din instans
 
-* Granska riktlinjerna för kampanjimplementering ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"} om du vill veta hur du anpassar Adobe Campaign efter företagets behov och strukturerar och organiserar implementeringen.[
+* Granska riktlinjerna för kampanjimplementering [&#128279;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"} om du vill veta hur du anpassar Adobe Campaign efter företagets behov och strukturerar och organiserar implementeringen.
 * [Kanal Konfigurera här](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
 * [Konfiguration av utlösare för Experience Cloud](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
