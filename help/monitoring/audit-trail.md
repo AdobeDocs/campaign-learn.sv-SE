@@ -29,4 +29,4 @@ Lär dig hur du får åtkomst till Granskningsspåret och vilka inställningar s
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444238?quality=12&learn=on&captions=swe){transcript=true}
 
-Mer information finns i[Granskningsspårsdokumentationen ](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=sv).
+Mer information finns i[Granskningsspårsdokumentationen &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=sv).
