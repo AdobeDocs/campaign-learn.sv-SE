@@ -21,7 +21,7 @@ ht-degree: 84%
    + [Introduktion till Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
    + [Adobe Campaign v8 - Adoptionshandbok](https://experienceleague.adobe.com/sv/docs/campaign-web/acs-to-ac/home)
    + [Installera och konfigurera klientkonsolen i Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
-   + [Utforska användargränssnittet i Adobe Campaign ](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [Utforska användargränssnittet i Adobe Campaign &#x200B;](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/get-started/manage-marketing-campaigns.md)
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [Skapa händelseaktiverade kampanjer](/help/get-started/create-event-triggered-campaigns.md)
@@ -77,8 +77,8 @@ ht-degree: 84%
    + Arbetsflöden för godkännande och validering {#create-approvals-and-validation-workflows}
       + [Introduktion](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Hantera godkännanden](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [Konfigurera godkännanden för kampanjer ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Konfigurera godkännanden för leveranser ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Konfigurera godkännanden för kampanjer &#x200B;](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Konfigurera godkännanden för leveranser &#x200B;](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Skapa en godkännandeaktivitet i ett arbetsflöde](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
    + [Lär dig av andra – god praxis för arbetsflöden](/help/process-management/workflow-best-practices-for-marketers.md)
 + Datahantering {#data-management}
