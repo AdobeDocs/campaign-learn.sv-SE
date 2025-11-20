@@ -107,4 +107,4 @@ ht-degree: 84%
    + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
    + [Tio bästa sätten för marknadsförare att lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
-+ [Adobe Campaign självstudiekurser för webbanvändargränssnitt](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [Adobe Campaign självstudiekurser för webbanvändargränssnitt](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=sv-SE)
